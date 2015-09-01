@@ -8,7 +8,9 @@ Login page
 /* bg color */
 .login {
   background-color: #364150 ;
-  background-image: url('../img/abastena-bg.jpg')
+  background-image: url('../img/abastena-bg.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 .login .logo {
