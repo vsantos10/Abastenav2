@@ -18,13 +18,14 @@ Login page
 }
 
 .login .content {
+  top:120px;
   background-color: #eceef1;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
   -o-border-radius: 7px;
   border-radius: 7px;
-  width: 400px;
+  width: 450px;
   margin: 40px auto 10px auto;
   padding: 30px;
   padding-top: 10px;
