@@ -9,14 +9,16 @@
 Boby
 ****/
 body {
-  background-color: #fff;
+  background-image: url('../../img/abastena-bg.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 body.page-md {
   background: white;
 }
 
 /******
-General 
+General
 ******/
 /* Theme Font Color */
 .theme-font {
@@ -46,10 +48,10 @@ General
 }
 
 /******
-Page Header 
+Page Header
 ******/
 .page-header {
-  background-color: #fff;
+  background-color: transparent;
   /* Page Header Top */
   /* Page Header Menu */
 }
@@ -88,7 +90,7 @@ Page Header
   color: #ffffff;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle {
-  background-color: #fff;
+  background-color: transparent;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle > i {
   color: #a4b4bb;
@@ -379,7 +381,7 @@ Page Header
 }
 
 /******
-Page Footer 
+Page Footer
 ******/
 .page-prefooter {
   background: #48525e;
