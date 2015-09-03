@@ -80,7 +80,7 @@ Page Header
   color: #C1CCD1;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:hover {
-  background-color: #fff;
+  background-color: transparent;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown > .dropdown-toggle:hover > i {
   color: #a4b4bb;
@@ -141,7 +141,7 @@ Page Header
   background-color: #dfe2e9;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username {
-  color: #8ea3b6;
+  color: #fff;
 }
 .page-header .page-header-top .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i {
   color: #8ea3b6;
@@ -599,7 +599,7 @@ Page Footer
     /* Top menu */
   }
   .page-header .top-menu {
-    background-color: #fff;
+    background-color: transparent;
   }
   .page-header-fixed-mobile .page-header .top-menu {
     background-color: #fff;
