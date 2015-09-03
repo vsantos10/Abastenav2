@@ -605,7 +605,7 @@ Page Footer
     background-color: #fff;
   }
   .page-header .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
-    background-color: white;
+    background-color: transparent;
   }
   .page-header-fixed-mobile .page-header .top-menu .navbar-nav > li.dropdown-user .dropdown-toggle {
     background: none;
