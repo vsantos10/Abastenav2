@@ -541,7 +541,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="row">
 													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Nome da Empresa</label>
+															<label class="control-label col-md-3">Membro GGFA</label>
 															<div class="col-md-9">
 																<input type="text" class="form-control" >
 															</div>
@@ -550,7 +550,7 @@ License: You must have a valid license purchased only from themeforest(the above
 													<!--/span-->
 													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">F</label>
+															<label class="control-label col-md-3">Código</label>
 															<div class="col-md-9">
 															<input type="text" class="form-control" >
 															</div>
@@ -562,445 +562,412 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="row">
 													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">NIF</label>
+															<label class="control-label col-md-3">Operador</label>
 															<div class="col-md-9">
 																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-
-												</div>
-													<div class="row">
-													<div class="col-md-9">
+													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-2">Nome do Responsável</label>
-															<div class="col-md-10">
-															<input type="text" class="form-control" >
+															<label class="control-label col-md-3">Membro BFA</label>
+															<div class="col-md-9">
+																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
 												</div>
-													<div class="row">
-													<div class="col-md-9">
+												<div class="row">
+													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-2">Morada</label>
-															<div class="col-md-10">
-															<input type="text" class="form-control" >
+															<label class="control-label col-md-3">Operações</label>
+															<div class="col-md-9">
+																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-												</div>
-													<!--/span-->
+													<div class="col-md-6">
+														<div class="form-group">
+															<label class="control-label col-md-3">Data</label>
+															<div class="col-md-9">
+																	<input type="text" class="form-control" >
+															</div>
+														</div>
+													</div>
+													</div>
 													<div class="row">
 														<div class="col-md-6">
 															<div class="form-group">
-																<label class="control-label col-md-3">Localidade</label>
+																<label class="control-label col-md-3">Nome da Mata</label>
 																<div class="col-md-9">
-																	<input type="text" class="form-control" >
+																		<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
-														<!--/span-->
+														<div class="col-md-3">
+															<div class="form-group">
+																<label class="control-label col-md-3">Código</label>
+																<div class="col-md-9">
+																		<input type="text" class="form-control" >
+																</div>
+															</div>
+														</div>
+
+														<div class="col-md-3">
+															<div class="form-group">
+																<label class="control-label col-md-3">Local</label>
+																<div class="col-md-9">
+																		<input type="text" class="form-control" >
+																</div>
+															</div>
+														</div>
+													</div>
+													<div class="row">
 														<div class="col-md-6">
 															<div class="form-group">
 																<label class="control-label col-md-3">Freguesia</label>
 																<div class="col-md-9">
-																<input type="text" class="form-control" >
+																		<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
-													</div>
-													<div class="row">
 														<div class="col-md-6">
 															<div class="form-group">
 																<label class="control-label col-md-3">Concelho</label>
 																<div class="col-md-9">
-																	<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-														<!--/span-->
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Código Postal</label>
-																<div class="col-md-9">
-																<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Telefone</label>
-																<div class="col-md-9">
-																	<input type="text" class="form-control" >
-
-																</div>
-															</div>
-														</div>
-														<!--/span-->
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Telefone 2</label>
-																<div class="col-md-9">
-																<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-													</div>
-														<!--/span-->
-												</div>
-												<!--/row-->
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Telefone 3 </label>
-															<div class="col-md-9">
-																	<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<!--/span-->
-
-
-												</div>
-													<!--/span-->
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Email</label>
-																<div class="col-md-9">
 																		<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Fax</label>
-																<div class="col-md-9">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
 														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Facturação da Empresa</label>
-																<div class="col-md-9">
-																		<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Ano</label>
-																<div class="col-md-9">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-
-										                          <!---> <!-->
-													<h4 class="form-section">Seguro de Acidentes de Trabalho</h4>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Nº da Apólice</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-
-
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Validade</label>
-															<div class="col-md-9">
-																	<input type="text" class="form-control" >
-															</div>
-														</div>
-													</div>
-												</div>
-
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Companhia de Seguros</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<h4 class="form-section">Seguro de Responsabilidade Civil</h4>
-											<div class="row">
-												<div class="col-md-6">
-													<div class="form-group">
-														<label class="control-label col-md-3">Nº da Apólice</label>
-														<div class="col-md-9">
-															<input type="text" class="form-control">
-														</div>
-													</div>
-												</div>
-
-
-												<div class="col-md-6">
-													<div class="form-group">
-														<label class="control-label col-md-3">Validade</label>
-														<div class="col-md-9">
-																<input type="text" class="form-control" >
-														</div>
-													</div>
-												</div>
-											</div>
-
-											<div class="row">
-												<div class="col-md-6">
-													<div class="form-group">
-														<label class="control-label col-md-3">Companhia de Seguros</label>
-														<div class="col-md-9">
-															<input type="text" class="form-control">
-														</div>
-													</div>
-												</div>
-											</div>
-											<h4 class="form-section">Informação Complementar</h4>
-											<div class="row">
-												<div class="col-md-9">
-													<div class="form-group">
-														<label class="control-label col-md-2">Operações Florestais que Executa</label>
-														<div class="col-md-10">
-															 <textarea class="form-control autosizeme" rows="4"></textarea>
-														</div>
-													</div>
-												</div>
-											</div>
-											<div class="row">
-												<div class="col-md-9">
-													<div class="form-group">
-														<label class="control-label col-md-2">Concelhos de Atuação</label>
-														<div class="col-md-10">
-															 <textarea class="form-control autosizeme" rows="4"></textarea>
-														</div>
-													</div>
-												</div>
-											</div><br/>
-											<div class="row">
-												<div class="col-md-9">
-													<div class="form-group">
-														<label class="control-label col-md-2">Operações Florestais que Executa</label>
-														<div class="col-md-10">
-															 <textarea class="form-control autosizeme" rows="4"></textarea>
-														</div>
-													</div>
-												</div>
-											</div>
-													<!--/span-->
-												<table class="table">
-    											<thead>
-        											<tr>
-										            <th class="col-sm-12 col-md-4">Tipo de Máquina</th>
-										            <th class="col-sm-12 col-md-2">Marca</th>
-										            <th class="col-sm-12 col-md-2">Função</th>
-										            <th class="col-sm-12 col-md-2">Ano</th>
-        											</tr>
-    											</thead>
-    										<tbody>
-        									<tr>
-										            <td>
-										                <input type="text" class="form-control" />
-										            </td>
-										            <td>
-										                <input type="text" class="form-control" />
-										            </td>
-										            <td>
-										                <input type="text" class="form-control" />
-										            </td>
-										            <td>
-										                <input type="text" class="form-control" />
-										            </td>
-										        </tr>
-														<tr>
-																	<td>
-																			<input type="text" class="form-control" />
+													<h3 class="form-section">Aspectos a Observar</h3>
+													<table class="table">
+	    											<thead>
+	        											<tr>
+											            <th class="col-sm-12 col-md-8"></th>
+											            <th class="col-sm-12 col-md-2">CONFORMIDADE</th>
+											            <th class="col-sm-12 col-md-2"></th>
+	        											</tr>
+	    											</thead>
+														<thead>
+																<tr>
+																	<th class="col-sm-12 col-md-8">Nas Máquinas e equipamentos</th>
+																	<th class="col-sm-12 col-md-2">C</th>
+																	<th class="col-sm-12 col-md-2">NC</th>
+																</tr>
+														</thead>
+	    										<tbody>
+	        									<tr>
+											            <td>
+											                Fugas (óleo, lubrificante ou combustível)
+											            </td>
+											            <td class="col-sm-12 col-md-2">
+																			<div class="form-group">
+																						<div class="radio-list">
+																					  &nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																							 </td>
+																			<td>
+																					<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																				 		</div>
+																			</div>
 																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
-																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
-																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
-																	</td>
-															</tr>
+											        </tr>
 															<tr>
 																		<td>
-																				<input type="text" class="form-control" />
+																				Fumo, ruído, vibração e pneus
 																		</td>
-																		<td>
-																				<input type="text" class="form-control" />
-																		</td>
-																		<td>
-																				<input type="text" class="form-control" />
-																		</td>
-																		<td>
-																				<input type="text" class="form-control" />
+																		<td class="col-sm-12 col-md-2">
+																				<div class="form-group">
+																							<div class="radio-list">
+																							&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																								 </td>
+																				<td>
+																						<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																							</div>
+																				</div>
 																		</td>
 																</tr>
 																<tr>
 																			<td>
-																					<input type="text" class="form-control" />
+																					Outros
 																			</td>
-																			<td>
-																					<input type="text" class="form-control" />
+																			<td class="col-sm-12 col-md-2">
+																					<div class="form-group">
+																								<div class="radio-list">
+																							  &nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																									 </td>
+																					<td>
+																							<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																						 		</div>
+																					</div>
 																			</td>
-																			<td>
-																					<input type="text" class="form-control" />
-																			</td>
-																			<td>
-																					<input type="text" class="form-control" />
-																			</td>
+
 																	</tr>
-										    </tbody>
-										</table>
-										<table class="table table-condensed">
-											<thead>
-													<tr>
-														<th class="col-sm-12 col-md-4">Camiões</th>
-														<th class="col-sm-12 col-md-2">Matrícula</th>
-														<th class="col-sm-12 col-md-2">Capacidade</th>
-														<th class="col-sm-12 col-md-2">Ano</th>
-													</tr>
-											</thead>
-										<tbody>
-											<tr>
-														<td>
-																<input type="text" class="form-control" />
-														</td>
-														<td>
-																<input type="text" class="form-control" />
-														</td>
-														<td>
-																<input type="text" class="form-control" />
-														</td>
-														<td>
-																<input type="text" class="form-control" />
-														</td>
-												</tr>
+
+											    </tbody>
+											</table>
+											<div class="row">
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="control-label col-md-2">Evidências / Comentários</label>
+														<div class="col-md-10">
+															 <textarea class="form-control autosizeme" rows="4"></textarea>
+														</div>
+													</div>
+												</div>
+											</div>
+											<table class="table">
+												<thead>
+														<tr>
+															<th class="col-sm-12 col-md-8">Na saúde e segurança no trabalho e no atendimento a emergências</th>
+															<th class="col-sm-12 col-md-2">C</th>
+															<th class="col-sm-12 col-md-2">NC</th>
+														</tr>
+												</thead>
+											<tbody>
 												<tr>
 															<td>
-																	<input type="text" class="form-control" />
+																	Equipamentos de protecção indívidual
 															</td>
-															<td>
-																	<input type="text" class="form-control" />
-															</td>
-															<td>
-																	<input type="text" class="form-control" />
-															</td>
-															<td>
-																	<input type="text" class="form-control" />
+															<td class="col-sm-12 col-md-2">
+																	<div class="form-group">
+																				<div class="radio-list">
+																				&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																					 </td>
+																	<td>
+																			<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																				</div>
+																	</div>
 															</td>
 													</tr>
 													<tr>
 																<td>
-																		<input type="text" class="form-control" />
+																		Distâncias de segurança
 																</td>
-																<td>
-																		<input type="text" class="form-control" />
-																</td>
-																<td>
-																		<input type="text" class="form-control" />
-																</td>
-																<td>
-																		<input type="text" class="form-control" />
+																<td class="col-sm-12 col-md-2">
+																		<div class="form-group">
+																					<div class="radio-list">
+																					&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																						 </td>
+																		<td>
+																				<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																					</div>
+																		</div>
 																</td>
 														</tr>
 														<tr>
 																	<td>
-																			<input type="text" class="form-control" />
+																			Meios Mínimos para emergência
 																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
+																	<td class="col-sm-12 col-md-2">
+																			<div class="form-group">
+																						<div class="radio-list">
+																						&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																							 </td>
+																			<td>
+																					<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																						</div>
+																			</div>
 																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
-																	</td>
-																	<td>
-																			<input type="text" class="form-control" />
-																	</td>
+
 															</tr>
-										</tbody>
-								</table>
-								<table class="table table-condensed">
-									<thead>
-											<tr>
-												<th class="col-sm-12 col-md-4">Operadores</th>
-												<th class="col-sm-12 col-md-4">Função/Aptidão</th>
-												<th class="col-sm-12 col-md-4">Formação/Experiência</th>
-											</tr>
-									</thead>
-								<tbody>
-									<tr>
-												<td>
-														<input type="text" class="form-control" />
-												</td>
-												<td>
-														<input type="text" class="form-control" />
-												</td>
-												<td>
-														<input type="text" class="form-control" />
-												</td>
-										</tr>
+															<tr>
+																		<td>
+																				Outros
+																		</td>
+																		<td class="col-sm-12 col-md-2">
+																				<div class="form-group">
+																							<div class="radio-list">
+																							&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																								 </td>
+																				<td>
+																						<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																							</div>
+																				</div>
+																		</td>
+
+																</tr>
+
+											</tbody>
+									</table>
+									<div class="row">
+										<div class="col-md-12">
+											<div class="form-group">
+												<label class="control-label col-md-2">Evidências / Comentários</label>
+												<div class="col-md-10">
+													 <textarea class="form-control autosizeme" rows="4"></textarea>
+												</div>
+											</div>
+										</div>
+									</div>
+									<table class="table">
+										<thead>
+												<tr>
+													<th class="col-sm-12 col-md-8">No manuseio, armazenagem e recolha de resíduos e de substâncias perigosas</th>
+													<th class="col-sm-12 col-md-2">C</th>
+													<th class="col-sm-12 col-md-2">NC</th>
+												</tr>
+										</thead>
+									<tbody>
 										<tr>
 													<td>
-															<input type="text" class="form-control" />
+															Equipamentos de protecção indívidual
 													</td>
-													<td>
-															<input type="text" class="form-control" />
-													</td>
-													<td>
-															<input type="text" class="form-control" />
+													<td class="col-sm-12 col-md-2">
+															<div class="form-group">
+																		<div class="radio-list">
+																		&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																			 </td>
+															<td>
+																	<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																		</div>
+															</div>
 													</td>
 											</tr>
 											<tr>
 														<td>
-																<input type="text" class="form-control" />
+																Distâncias de segurança
 														</td>
-														<td>
-																<input type="text" class="form-control" />
-														</td>
-														<td>
-																<input type="text" class="form-control" />
+														<td class="col-sm-12 col-md-2">
+																<div class="form-group">
+																			<div class="radio-list">
+																			&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																				 </td>
+																<td>
+																		<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																			</div>
+																</div>
 														</td>
 												</tr>
 												<tr>
 															<td>
-																	<input type="text" class="form-control" />
+																	Meios Mínimos para emergência
 															</td>
-															<td>
-																	<input type="text" class="form-control" />
+															<td class="col-sm-12 col-md-2">
+																	<div class="form-group">
+																				<div class="radio-list">
+																				&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																					 </td>
+																	<td>
+																			<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																				</div>
+																	</div>
 															</td>
-															<td>
-																	<input type="text" class="form-control" />
-															</td>
-													</tr>
-								</tbody>
-						</table>
-						<br/><br/><br/>
 
-						<div class="form-actions">
+													</tr>
+													<tr>
+																<td>
+																		Outros
+																</td>
+																<td class="col-sm-12 col-md-2">
+																		<div class="form-group">
+																					<div class="radio-list">
+																					&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																						 </td>
+																		<td>
+																				<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																					</div>
+																		</div>
+																</td>
+
+														</tr>
+
+									</tbody>
+							</table>
 							<div class="row">
-								<div class="col-md-offset-9 col-md-8">
-									<button type="submit" class="btn green">Submeter</button>
-									<button type="button" class="btn default">Cancelar</button>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label class="control-label col-md-2">Evidências / Comentários</label>
+										<div class="col-md-10">
+											 <textarea class="form-control autosizeme" rows="4"></textarea>
+										</div>
+									</div>
+								</div>
+							</div>
+							<table class="table">
+								<thead>
+										<tr>
+											<th class="col-sm-12 col-md-8">No comportamento e qualidade da água</th>
+											<th class="col-sm-12 col-md-2">C</th>
+											<th class="col-sm-12 col-md-2">NC</th>
+										</tr>
+								</thead>
+							<tbody>
+								<tr>
+											<td>
+													Trânsito e operação em linhas de água
+											</td>
+											<td class="col-sm-12 col-md-2">
+													<div class="form-group">
+																<div class="radio-list">
+																&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																	 </td>
+													<td>
+															<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																</div>
+													</div>
+											</td>
+									</tr>
+									<tr>
+												<td>
+														Assoreamento
+												</td>
+												<td class="col-sm-12 col-md-2">
+														<div class="form-group">
+																	<div class="radio-list">
+																	&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																		 </td>
+														<td>
+																<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																	</div>
+														</div>
+												</td>
+										</tr>
+										<tr>
+													<td>
+															Meios Mínimos para emergência
+													</td>
+													<td class="col-sm-12 col-md-2">
+															<div class="form-group">
+																		<div class="radio-list">
+																		&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																			 </td>
+															<td>
+																	<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																		</div>
+															</div>
+													</td>
+
+											</tr>
+											<tr>
+														<td>
+																Outros
+														</td>
+														<td class="col-sm-12 col-md-2">
+																<div class="form-group">
+																			<div class="radio-list">
+																			&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																				 </td>
+																<td>
+																		<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																			</div>
+																</div>
+														</td>
+
+												</tr>
+
+							</tbody>
+					</table>
+					<div class="row">
+						<div class="col-md-12">
+							<div class="form-group">
+								<label class="control-label col-md-2">Evidências / Comentários</label>
+								<div class="col-md-10">
+									 <textarea class="form-control autosizeme" rows="4"></textarea>
 								</div>
 							</div>
 						</div>
+					</div>
 											</div>
 										</div>
 
