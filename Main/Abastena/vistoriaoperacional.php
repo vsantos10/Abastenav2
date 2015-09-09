@@ -811,7 +811,7 @@ License: You must have a valid license purchased only from themeforest(the above
 									<tbody>
 										<tr>
 													<td>
-															Equipamentos de protecção indívidual
+															Identificação / Localização de Contentores / Recipientes suficientes e adequados
 													</td>
 													<td class="col-sm-12 col-md-2">
 															<div class="form-group">
@@ -826,7 +826,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</tr>
 											<tr>
 														<td>
-																Distâncias de segurança
+																Derrames de óleo / combustível e outras substâncias perigosas
 														</td>
 														<td class="col-sm-12 col-md-2">
 																<div class="form-group">
@@ -841,7 +841,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												</tr>
 												<tr>
 															<td>
-																	Meios Mínimos para emergência
+																	Atendimento das orientações em rótulos, fichas de segurança e outros documentos
 															</td>
 															<td class="col-sm-12 col-md-2">
 																	<div class="form-group">
@@ -857,7 +857,7 @@ License: You must have a valid license purchased only from themeforest(the above
 													</tr>
 													<tr>
 																<td>
-																		Outros
+																		Separação e destino dos resíduos
 																</td>
 																<td class="col-sm-12 col-md-2">
 																		<div class="form-group">
@@ -871,19 +871,26 @@ License: You must have a valid license purchased only from themeforest(the above
 																</td>
 
 														</tr>
+														<tr>
+																	<td>
+																		Outros
+																	</td>
+																	<td class="col-sm-12 col-md-2">
+																			<div class="form-group">
+																						<div class="radio-list">
+																						&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																							 </td>
+																			<td>
+																					<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																						</div>
+																			</div>
+																	</td>
+
+															</tr>
 
 									</tbody>
 							</table>
-							<div class="row">
-								<div class="col-md-12">
-									<div class="form-group">
-										<label class="control-label col-md-2">Evidências / Comentários</label>
-										<div class="col-md-10">
-											 <textarea class="form-control autosizeme" rows="4"></textarea>
-										</div>
-									</div>
-								</div>
-							</div>
+
 							<table class="table">
 								<thead>
 										<tr>
@@ -925,7 +932,7 @@ License: You must have a valid license purchased only from themeforest(the above
 										</tr>
 										<tr>
 													<td>
-															Meios Mínimos para emergência
+															Deposição de resíduos lenhosos
 													</td>
 													<td class="col-sm-12 col-md-2">
 															<div class="form-group">
@@ -941,7 +948,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</tr>
 											<tr>
 														<td>
-																Outros
+															Contaminação por derrames
 														</td>
 														<td class="col-sm-12 col-md-2">
 																<div class="form-group">
@@ -955,7 +962,129 @@ License: You must have a valid license purchased only from themeforest(the above
 														</td>
 
 												</tr>
+												<tr>
+															<td>
+																Outros
+															</td>
+															<td class="col-sm-12 col-md-2">
+																	<div class="form-group">
+																				<div class="radio-list">
+																				&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																					 </td>
+																	<td>
+																			<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																				</div>
+																	</div>
+															</td>
 
+													</tr>
+													<div class="row">
+														<div class="col-md-12">
+															<div class="form-group">
+																<label class="control-label col-md-2">Evidências / Comentários</label>
+																<div class="col-md-10">
+																	 <textarea class="form-control autosizeme" rows="4"></textarea>
+																</div>
+															</div>
+														</div>
+													</div>
+													<table class="table">
+														<thead>
+																<tr>
+																	<th class="col-sm-12 col-md-8">Nas condições do solo</th>
+																	<th class="col-sm-12 col-md-2">C</th>
+																	<th class="col-sm-12 col-md-2">NC</th>
+																</tr>
+														</thead>
+													<tbody>
+														<tr>
+																	<td>
+																			Erosão
+																	</td>
+																	<td class="col-sm-12 col-md-2">
+																			<div class="form-group">
+																						<div class="radio-list">
+																						&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																							 </td>
+																			<td>
+																					<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																						</div>
+																			</div>
+																	</td>
+															</tr>
+															<tr>
+																		<td>
+																				Compactação e formação de trilhos
+																		</td>
+																		<td class="col-sm-12 col-md-2">
+																				<div class="form-group">
+																							<div class="radio-list">
+																							&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																								 </td>
+																				<td>
+																						<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																							</div>
+																				</div>
+																		</td>
+																</tr>
+																<tr>
+																			<td>
+																					Exposição excessiva
+																			</td>
+																			<td class="col-sm-12 col-md-2">
+																					<div class="form-group">
+																								<div class="radio-list">
+																								&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																									 </td>
+																					<td>
+																							<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																								</div>
+																					</div>
+																			</td>
+
+																	</tr>
+																	<tr>
+																				<td>
+																					Contaminação por derrames
+																				</td>
+																				<td class="col-sm-12 col-md-2">
+																						<div class="form-group">
+																									<div class="radio-list">
+																									&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																										 </td>
+																						<td>
+																								<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																									</div>
+																						</div>
+																				</td>
+
+																		</tr>
+																		<tr>
+																					<td>
+																						Outros
+																					</td>
+																					<td class="col-sm-12 col-md-2">
+																							<div class="form-group">
+																										<div class="radio-list">
+																										&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																											 </td>
+																							<td>
+																									<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																										</div>
+																							</div>
+																					</td>
+
+																			</tr>
+																			<div class="row">
+																				<div class="col-md-12">
+																					<div class="form-group">
+																						<label class="control-label col-md-2">Evidências / Comentários</label>
+																						<div class="col-md-10">
+																							 <textarea class="form-control autosizeme" rows="4"></textarea>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
 							</tbody>
 					</table>
 					<div class="row">
@@ -968,6 +1097,531 @@ License: You must have a valid license purchased only from themeforest(the above
 							</div>
 						</div>
 					</div>
+
+					<table class="table">
+						<thead>
+								<tr>
+									<th class="col-sm-12 col-md-8">Nas infra-estruturas</th>
+									<th class="col-sm-12 col-md-2">C</th>
+									<th class="col-sm-12 col-md-2">NC</th>
+								</tr>
+						</thead>
+					<tbody>
+						<tr>
+									<td>
+											Estradas, caminhos e aceiros
+									</td>
+									<td class="col-sm-12 col-md-2">
+											<div class="form-group">
+														<div class="radio-list">
+														&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+															 </td>
+											<td>
+													<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+														</div>
+											</div>
+									</td>
+							</tr>
+							<tr>
+										<td>
+												Pontos de travessia da rede viária com linhas de água (pontes, manilhas, etc.)
+										</td>
+										<td class="col-sm-12 col-md-2">
+												<div class="form-group">
+															<div class="radio-list">
+															&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																 </td>
+												<td>
+														<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+															</div>
+												</div>
+										</td>
+								</tr>
+								<tr>
+											<td>
+													Barragens e outros pontos de água
+											</td>
+											<td class="col-sm-12 col-md-2">
+													<div class="form-group">
+																<div class="radio-list">
+																&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																	 </td>
+													<td>
+															<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																</div>
+													</div>
+											</td>
+
+									</tr>
+									<tr>
+												<td>
+													Outros
+												</td>
+												<td class="col-sm-12 col-md-2">
+														<div class="form-group">
+																	<div class="radio-list">
+																	&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																		 </td>
+														<td>
+																<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																	</div>
+														</div>
+												</td>
+
+										</tr>
+											<div class="row">
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="control-label col-md-2">Evidências / Comentários</label>
+														<div class="col-md-10">
+															 <textarea class="form-control autosizeme" rows="4"></textarea>
+														</div>
+													</div>
+												</div>
+											</div>
+
+					<table class="table">
+						<thead>
+								<tr>
+									<th class="col-sm-12 col-md-8">Na biodiversidade</th>
+									<th class="col-sm-12 col-md-2">C</th>
+									<th class="col-sm-12 col-md-2">NC</th>
+								</tr>
+						</thead>
+					<tbody>
+						<tr>
+									<td>
+											Danos em áreas de protecção
+									</td>
+									<td class="col-sm-12 col-md-2">
+											<div class="form-group">
+														<div class="radio-list">
+														&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+															 </td>
+											<td>
+													<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+														</div>
+											</div>
+									</td>
+							</tr>
+							<tr>
+										<td>
+												Danos em árvores a preservar, nas longevas e cavernosas
+										</td>
+										<td class="col-sm-12 col-md-2">
+												<div class="form-group">
+															<div class="radio-list">
+															&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																 </td>
+												<td>
+														<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+															</div>
+												</div>
+										</td>
+								</tr>
+								<tr>
+											<td>
+													Danos em ninhos, tocas e outros locais de abrigo da fauna
+											</td>
+											<td class="col-sm-12 col-md-2">
+													<div class="form-group">
+																<div class="radio-list">
+																&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																	 </td>
+													<td>
+															<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																</div>
+													</div>
+											</td>
+
+									</tr>
+									<tr>
+												<td>
+													Outros
+												</td>
+												<td class="col-sm-12 col-md-2">
+														<div class="form-group">
+																	<div class="radio-list">
+																	&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																		 </td>
+														<td>
+																<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																	</div>
+														</div>
+												</td>
+
+										</tr>
+											<div class="row">
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="control-label col-md-2">Evidências / Comentários</label>
+														<div class="col-md-10">
+															 <textarea class="form-control autosizeme" rows="4"></textarea>
+														</div>
+													</div>
+												</div>
+											</div>
+					<table class="table">
+						<thead>
+								<tr>
+									<th class="col-sm-12 col-md-8">Nas condições laborais</th>
+									<th class="col-sm-12 col-md-2">C</th>
+									<th class="col-sm-12 col-md-2">NC</th>
+								</tr>
+						</thead>
+					<tbody>
+						<tr>
+									<td>
+											Horário de trabalho, férias e descanso semanal
+									</td>
+									<td class="col-sm-12 col-md-2">
+											<div class="form-group">
+														<div class="radio-list">
+														&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+															 </td>
+											<td>
+													<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+														</div>
+											</div>
+									</td>
+							</tr>
+							<tr>
+										<td>
+												Inspecções médicas
+										</td>
+										<td class="col-sm-12 col-md-2">
+												<div class="form-group">
+															<div class="radio-list">
+															&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																 </td>
+												<td>
+														<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+															</div>
+												</div>
+										</td>
+								</tr>
+								<tr>
+											<td>
+													Legalidade de estrangeiros
+											</td>
+											<td class="col-sm-12 col-md-2">
+													<div class="form-group">
+																<div class="radio-list">
+																&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																	 </td>
+													<td>
+															<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																</div>
+													</div>
+											</td>
+
+									</tr>
+									<tr>
+												<td>
+													Seguro e segurança social
+												</td>
+												<td class="col-sm-12 col-md-2">
+														<div class="form-group">
+																	<div class="radio-list">
+																	&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																		 </td>
+														<td>
+																<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																	</div>
+														</div>
+												</td>
+
+										</tr>
+										<tr>
+													<td>
+														Outros
+													</td>
+													<td class="col-sm-12 col-md-2">
+															<div class="form-group">
+																		<div class="radio-list">
+																		&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																			 </td>
+															<td>
+																	<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																		</div>
+															</div>
+													</td>
+
+											</tr>
+											<div class="row">
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="control-label col-md-2">Evidências / Comentários / Nomes dos operadores</label>
+														<div class="col-md-10">
+															 <textarea class="form-control autosizeme" rows="4"></textarea>
+														</div>
+													</div>
+												</div>
+											</div>
+											<table class="table">
+												<thead>
+														<tr>
+															<th class="col-sm-12 col-md-8">Na envolvente social - risco ou perturbação</th>
+															<th class="col-sm-12 col-md-2">C</th>
+															<th class="col-sm-12 col-md-2">NC</th>
+														</tr>
+												</thead>
+											<tbody>
+												<tr>
+															<td>
+																	Prédios, muros, vedações,etc.
+															</td>
+															<td class="col-sm-12 col-md-2">
+																	<div class="form-group">
+																				<div class="radio-list">
+																				&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																					 </td>
+																	<td>
+																			<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																				</div>
+																	</div>
+															</td>
+													</tr>
+													<tr>
+																<td>
+																		Estradas e caminhos
+																</td>
+																<td class="col-sm-12 col-md-2">
+																		<div class="form-group">
+																					<div class="radio-list">
+																					&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																						 </td>
+																		<td>
+																				<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																					</div>
+																		</div>
+																</td>
+														</tr>
+														<tr>
+																	<td>
+																			Valores arqueológicos, históricos e culturais (santuário, cemitério, monumento, prédio, etc.)
+																	</td>
+																	<td class="col-sm-12 col-md-2">
+																			<div class="form-group">
+																						<div class="radio-list">
+																						&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																							 </td>
+																			<td>
+																					<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																						</div>
+																			</div>
+																	</td>
+
+															</tr>
+															<tr>
+																		<td>
+																			Rede eléctrica e telefónica, condutas de água , gás e outras
+																		</td>
+																		<td class="col-sm-12 col-md-2">
+																				<div class="form-group">
+																							<div class="radio-list">
+																							&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																								 </td>
+																				<td>
+																						<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																							</div>
+																				</div>
+																		</td>
+
+																</tr>
+																<tr>
+																			<td>
+																				Acções não autorizadas (Roubo, depósito de lixo, depredação )
+																			</td>
+																			<td class="col-sm-12 col-md-2">
+																					<div class="form-group">
+																								<div class="radio-list">
+																								&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																									 </td>
+																					<td>
+																							<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																								</div>
+																					</div>
+																			</td>
+
+																	</tr>
+																	<tr>
+																				<td>
+																					Outros
+																				</td>
+																				<td class="col-sm-12 col-md-2">
+																						<div class="form-group">
+																									<div class="radio-list">
+																									&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																										 </td>
+																						<td>
+																								<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																									</div>
+																						</div>
+																				</td>
+
+																		</tr>
+																	<div class="row">
+																		<div class="col-md-12">
+																			<div class="form-group">
+																				<label class="control-label col-md-2">Evidências / Comentários / Nomes dos operadores</label>
+																				<div class="col-md-10">
+																					 <textarea class="form-control autosizeme" rows="4"></textarea>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<table class="table">
+																		<thead>
+																				<tr>
+																					<th class="col-sm-12 col-md-8">Na documentação</th>
+																					<th class="col-sm-12 col-md-2">C</th>
+																					<th class="col-sm-12 col-md-2">NC</th>
+																				</tr>
+																		</thead>
+																	<tbody>
+																		<tr>
+																					<td>
+																							Termo de responsabilidade para execução de serviços
+																					</td>
+																					<td class="col-sm-12 col-md-2">
+																							<div class="form-group">
+																										<div class="radio-list">
+																										&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+																											 </td>
+																							<td>
+																									<input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+																										</div>
+																							</div>
+																					</td>
+																			</tr>
+																			<tr>
+																						<td>
+																								Mapa ou croqui da propriedade
+																						</td>
+																						<td class="col-sm-12 col-md-2">
+																								<div class="form-group">
+																											<div class="radio-list">
+																											&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+																												 </td>
+																								<td>
+																										<input type="radio" name="optionsRadios" id="optionsRadios4" value="option4">
+																											</div>
+																								</div>
+																						</td>
+																				</tr>
+																				<tr>
+																							<td>
+																									Plano, Projeto, Licenças, Autorizações, etc.
+																							</td>
+																							<td class="col-sm-12 col-md-2">
+																									<div class="form-group">
+																												<div class="radio-list">
+																												&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																													 </td>
+																									<td>
+																											<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																												</div>
+																									</div>
+																							</td>
+
+																					</tr>
+																					<tr>
+																								<td>
+																									Validade das edições dos documentos distribuidos pela administração
+																								</td>
+																								<td class="col-sm-12 col-md-2">
+																										<div class="form-group">
+																													<div class="radio-list">
+																													&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																														 </td>
+																										<td>
+																												<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																													</div>
+																										</div>
+																								</td>
+
+																						</tr>
+																						<tr>
+																									<td>
+																										Outros
+																									</td>
+																									<td class="col-sm-12 col-md-2">
+																											<div class="form-group">
+																														<div class="radio-list">
+																														&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																															 </td>
+																											<td>
+																													<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																														</div>
+																											</div>
+																									</td>
+
+																							</tr>
+																							<div class="row">
+																								<div class="col-md-12">
+																									<div class="form-group">
+																										<label class="control-label col-md-2">Evidências / Comentários </label>
+																										<div class="col-md-10">
+																											 <textarea class="form-control autosizeme" rows="4"></textarea>
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																							<tr>
+																										<td>
+																											Outros aspectos
+																										</td>
+																										<td class="col-sm-12 col-md-2">
+																												<div class="form-group">
+																															<div class="radio-list">
+																															&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																																 </td>
+																												<td>
+																														<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																															</div>
+																												</div>
+																										</td>
+
+																								</tr>
+																								<div class="row">
+																									<div class="col-md-12">
+																										<div class="form-group">
+																											<label class="control-label col-md-2">Evidências / Comentários </label>
+																											<div class="col-md-10">
+																												 <textarea class="form-control autosizeme" rows="4"></textarea>
+																											</div>
+																										</div>
+																									</div>
+																								</div>
+																								<tr>
+																											<td>
+																												Necessidade de ter vistoria após conclusão da operação
+																											</td>
+																											<td class="col-sm-12 col-md-2">
+																													<div class="form-group">
+																																<div class="radio-list">
+																																&nbsp;<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																																	 </td>
+																													<td>
+																															<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																																</div>
+																													</div>
+																											</td>
+
+																									</tr>
+</tbody>
+</table>
+<div class="row">
+<div class="col-md-12">
+<div class="form-group">
+<label class="control-label col-md-2">Evidências / Comentários</label>
+<div class="col-md-10">
+	 <textarea class="form-control autosizeme" rows="4"></textarea>
+</div>
+</div>
+</div>
+</div>
 											</div>
 										</div>
 
