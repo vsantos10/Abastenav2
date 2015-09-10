@@ -522,8 +522,8 @@ License: You must have a valid license purchased only from themeforest(the above
 							<!-- END SIDEBAR USER TITLE -->
 							<!-- SIDEBAR BUTTONS -->
 							<div class="profile-userbuttons">
-								<button type="button" class="btn btn-circle green-haze btn-sm">Follow</button>
-								<button type="button" class="btn btn-circle btn-danger btn-sm">Message</button>
+								<button type="button" class="btn btn-circle green-haze btn-sm">Alertas</button>
+								<button type="button" class="btn btn-circle btn-danger btn-sm">Mensagens</button>
 							</div>
 							<!-- END SIDEBAR BUTTONS -->
 							<!-- SIDEBAR MENU -->
@@ -532,22 +532,27 @@ License: You must have a valid license purchased only from themeforest(the above
 									<li>
 										<a href="extra_profile.html">
 										<i class="icon-home"></i>
-										Overview </a>
+										Perfil </a>
 									</li>
 									<li class="active">
 										<a href="extra_profile_account.html">
 										<i class="icon-settings"></i>
-										Account Settings </a>
+										Editar Conta </a>
 									</li>
 									<li>
 										<a href="page_todo.html" target="_blank">
 										<i class="icon-check"></i>
-										Tasks </a>
+										Listar Matas </a>
+									</li>
+									<li>
+										<a href="page_todo.html" target="_blank">
+										<i class="icon-check"></i>
+										Listar Notificações </a>
 									</li>
 									<li>
 										<a href="extra_profile_help.html">
 										<i class="icon-info"></i>
-										Help </a>
+										Ajuda plataforma </a>
 									</li>
 								</ul>
 							</div>
@@ -560,46 +565,31 @@ License: You must have a valid license purchased only from themeforest(the above
 							<div class="row list-separated profile-stat">
 								<div class="col-md-4 col-sm-4 col-xs-6">
 									<div class="uppercase profile-stat-title">
-										 37
+										 4
 									</div>
 									<div class="uppercase profile-stat-text">
-										 Projects
+										 Matas
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4 col-xs-6">
 									<div class="uppercase profile-stat-title">
-										 51
+										 10
 									</div>
 									<div class="uppercase profile-stat-text">
-										 Tasks
+										Alertas
 									</div>
 								</div>
 								<div class="col-md-4 col-sm-4 col-xs-6">
 									<div class="uppercase profile-stat-title">
-										 61
+										 4
 									</div>
 									<div class="uppercase profile-stat-text">
-										 Uploads
+										Ficheiros
 									</div>
 								</div>
 							</div>
 							<!-- END STAT -->
-							<div>
-								<h4 class="profile-desc-title">About Marcus Doe</h4>
-								<span class="profile-desc-text"> Lorem ipsum dolor sit amet diam nonummy nibh dolore. </span>
-								<div class="margin-top-20 profile-desc-link">
-									<i class="fa fa-globe"></i>
-									<a href="http://www.keenthemes.com">www.keenthemes.com</a>
-								</div>
-								<div class="margin-top-20 profile-desc-link">
-									<i class="fa fa-twitter"></i>
-									<a href="http://www.twitter.com/keenthemes/">@keenthemes</a>
-								</div>
-								<div class="margin-top-20 profile-desc-link">
-									<i class="fa fa-facebook"></i>
-									<a href="http://www.facebook.com/keenthemes/">keenthemes</a>
-								</div>
-							</div>
+
 						</div>
 						<!-- END PORTLET MAIN -->
 					</div>
@@ -612,20 +602,20 @@ License: You must have a valid license purchased only from themeforest(the above
 									<div class="portlet-title tabbable-line">
 										<div class="caption caption-md">
 											<i class="icon-globe theme-font hide"></i>
-											<span class="caption-subject font-blue-madison bold uppercase">Profile Account</span>
+											<span class="caption-subject font-blue-madison bold uppercase">Perfil </span>
 										</div>
 										<ul class="nav nav-tabs">
 											<li class="active">
-												<a href="#tab_1_1" data-toggle="tab">Personal Info</a>
+												<a href="#tab_1_1" data-toggle="tab">Informação pessoal</a>
 											</li>
 											<li>
-												<a href="#tab_1_2" data-toggle="tab">Change Avatar</a>
+												<a href="#tab_1_2" data-toggle="tab">Mudar imagem</a>
 											</li>
 											<li>
-												<a href="#tab_1_3" data-toggle="tab">Change Password</a>
+												<a href="#tab_1_3" data-toggle="tab">Mudar password</a>
 											</li>
 											<li>
-												<a href="#tab_1_4" data-toggle="tab">Privacy Settings</a>
+												<a href="#tab_1_4" data-toggle="tab">Info adicional</a>
 											</li>
 										</ul>
 									</div>
@@ -670,7 +660,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											<!-- CHANGE AVATAR TAB -->
 											<div class="tab-pane" id="tab_1_2">
 												<p>
-													 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+													 Pode alterar a imagem da sua conta, selecionando a caixa abaixo indicada.
 												</p>
 												<form action="#" role="form">
 													<div class="form-group">
@@ -683,7 +673,7 @@ License: You must have a valid license purchased only from themeforest(the above
 															<div>
 																<span class="btn default btn-file">
 																<span class="fileinput-new">
-																Select image </span>
+																Seleccionar imagem </span>
 																<span class="fileinput-exists">
 																Change </span>
 																<input type="file" name="...">
@@ -693,15 +683,15 @@ License: You must have a valid license purchased only from themeforest(the above
 															</div>
 														</div>
 														<div class="clearfix margin-top-10">
-															<span class="label label-danger">NOTE! </span>
-															<span>Attached image thumbnail is supported in Latest Firefox, Chrome, Opera, Safari and Internet Explorer 10 only </span>
+															<span class="label label-danger">NOTA!</span>
+															<span> &nbsp;  Só funciona nas últimas versões do Chrome, Safari, Mozilla, Edge e na versão 10 de Internet explorer. </span>
 														</div>
 													</div>
 													<div class="margin-top-10">
 														<a href="javascript:;" class="btn green-haze">
-														Submit </a>
+														Enviar </a>
 														<a href="javascript:;" class="btn default">
-														Cancel </a>
+														Cancelar </a>
 													</div>
 												</form>
 											</div>
@@ -710,22 +700,22 @@ License: You must have a valid license purchased only from themeforest(the above
 											<div class="tab-pane" id="tab_1_3">
 												<form action="#">
 													<div class="form-group">
-														<label class="control-label">Current Password</label>
+														<label class="control-label">Password Actual</label>
 														<input type="password" class="form-control"/>
 													</div>
 													<div class="form-group">
-														<label class="control-label">New Password</label>
+														<label class="control-label">Nova Password</label>
 														<input type="password" class="form-control"/>
 													</div>
 													<div class="form-group">
-														<label class="control-label">Re-type New Password</label>
+														<label class="control-label">Re-escreva uma Nova Password</label>
 														<input type="password" class="form-control"/>
 													</div>
 													<div class="margin-top-10">
 														<a href="javascript:;" class="btn green-haze">
-														Change Password </a>
+													  Mudar Password </a>
 														<a href="javascript:;" class="btn default">
-														Cancel </a>
+														Cancelar </a>
 													</div>
 												</form>
 											</div>
@@ -736,51 +726,42 @@ License: You must have a valid license purchased only from themeforest(the above
 													<table class="table table-light table-hover">
 													<tr>
 														<td>
-															 Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus..
+															 Partilhar info com outros utilizadores, que não administradores.
 														</td>
 														<td>
 															<label class="uniform-inline">
 															<input type="radio" name="optionsRadios1" value="option1"/>
-															Yes </label>
+															Sim </label>
 															<label class="uniform-inline">
 															<input type="radio" name="optionsRadios1" value="option2" checked/>
-															No </label>
+															Não </label>
 														</td>
 													</tr>
 													<tr>
 														<td>
-															 Enim eiusmod high life accusamus terry richardson ad squid wolf moon
+															 Receber notificações da plataforma no e-mail.
 														</td>
 														<td>
 															<label class="uniform-inline">
-															<input type="checkbox" value=""/> Yes </label>
+															<input type="checkbox" value=""/> Sim </label>
 														</td>
 													</tr>
 													<tr>
 														<td>
-															 Enim eiusmod high life accusamus terry richardson ad squid wolf moon
+															 Receber alertas e avisos da plataforma no e-mail.
 														</td>
 														<td>
 															<label class="uniform-inline">
-															<input type="checkbox" value=""/> Yes </label>
-														</td>
-													</tr>
-													<tr>
-														<td>
-															 Enim eiusmod high life accusamus terry richardson ad squid wolf moon
-														</td>
-														<td>
-															<label class="uniform-inline">
-															<input type="checkbox" value=""/> Yes </label>
+															<input type="checkbox" value=""/> Sim </label>
 														</td>
 													</tr>
 													</table>
 													<!--end profile-settings-->
 													<div class="margin-top-10">
 														<a href="javascript:;" class="btn green-haze">
-														Save Changes </a>
+														Guardar alterações </a>
 														<a href="javascript:;" class="btn default">
-														Cancel </a>
+														Cancelar </a>
 													</div>
 												</form>
 											</div>
