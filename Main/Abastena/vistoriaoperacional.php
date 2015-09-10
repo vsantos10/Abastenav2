@@ -1087,16 +1087,6 @@ License: You must have a valid license purchased only from themeforest(the above
 																			</div>
 							</tbody>
 					</table>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="control-label col-md-2">Evidências / Comentários</label>
-								<div class="col-md-10">
-									 <textarea class="form-control autosizeme" rows="4"></textarea>
-								</div>
-							</div>
-						</div>
-					</div>
 
 					<table class="table">
 						<thead>
@@ -1584,16 +1574,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																										</td>
 
 																								</tr>
-																								<div class="row">
-																									<div class="col-md-12">
-																										<div class="form-group">
-																											<label class="control-label col-md-2">Evidências / Comentários </label>
-																											<div class="col-md-10">
-																												 <textarea class="form-control autosizeme" rows="4"></textarea>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
+
 																								<tr>
 																											<td>
 																												Necessidade de ter vistoria após conclusão da operação
@@ -1610,36 +1591,143 @@ License: You must have a valid license purchased only from themeforest(the above
 																											</td>
 
 																									</tr>
-</tbody>
-</table>
-<div class="row">
-<div class="col-md-12">
-<div class="form-group">
-<label class="control-label col-md-2">Evidências / Comentários</label>
-<div class="col-md-10">
-	 <textarea class="form-control autosizeme" rows="4"></textarea>
-</div>
-</div>
-</div>
-</div>
-											</div>
-										</div>
+																								</tbody>
+																								</table>
+																								<div class="row">
+																								<div class="col-md-12">
+																								<div class="form-group">
+																								<label class="control-label col-md-2">Evidências  / Comentários</label>
+																								<div class="col-md-10">
+																									 <textarea class="form-control autosizeme" rows="4"></textarea>
+																								</div>
+																								</div>
+																								</div>
+																								</div>
+																								<table class="table">
+																									<thead>
+																											<tr>
+																												<th class="col-sm-12 col-md-8"></th>
+																												<th class="col-sm-12 col-md-2"></th>
+																												<th class="col-sm-12 col-md-2"></th>
+																											</tr>
+																									</thead>
+																								<tbody>
+																									<tr>
+																												<td>
+																													Outros aspectos
+																												</td>
+																												<td class="col-sm-12 col-md-2">
+																														<div class="form-group">
+																																	<div class="radio-list">
+																															<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																																		 </td>
+																														<td>
+																																<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																																	</div>
+																														</div>
+																												</td>
 
-												<!--/row-->
+																										</tr>
+																									</tbody>
+																								</table>
+																								<div class="row">
+																								<div class="col-md-12">
+																								<div class="form-group">
+																								<label class="control-label col-md-2">Evidências  / Comentários</label>
+																								<div class="col-md-10">
+																									 <textarea class="form-control autosizeme" rows="4"></textarea>
+																								</div>
+																								</div>
+																								</div>
+																								</div>
+																								<table class="table">
+																									<thead>
+																											<tr>
+																												<th class="col-sm-12 col-md-8"></th>
+																												<th class="col-sm-12 col-md-2">Não</th>
+																												<th class="col-sm-12 col-md-2">Sim</th>
+																											</tr>
+																									</thead>
+																								<tbody>
+																									<tr>
+																												<td>
+																												Necessidade de ter Vistoria após a conclusão da operação?
+																												</td>
+																												<td class="col-sm-12 col-md-2">
+																														<div class="form-group">
+																																	<div class="radio-list">
+																															<input type="radio" name="optionsRadios" id="optionsRadios5" value="option5">
+																																		 </td>
+																														<td>
+																																<input type="radio" name="optionsRadios" id="optionsRadios6" value="option6">
+																																	</div>
+																														</div>
+																												</td>
+																												</tr>
+																									</tbody>
+																								</table>
+																								<div class="row">
+																								<div class="col-md-6">
+																									<div class="form-group">
+																										<label class="control-label col-md-3">Data Prevista</label>
+																										<div class="col-md-9">
+																												<input type="text" class="form-control" >
+																										</div>
+																									</div>
+																								</div>
+																							</div>
+																							<div class="row">
+																							<div class="col-md-6">
+																								<div class="form-group">
+																									<label class="control-label col-md-3">Vistoriador</label>
+																									<div class="col-md-9">
+																											<input type="text" class="form-control" >
+																									</div>
+																								</div>
+																							</div>
+																						<div class="col-md-6">
+																							<div class="form-group">
+																								<label class="control-label col-md-3">Membro Responsável</label>
+																								<div class="col-md-9">
+																										<input type="text" class="form-control" >
+																								</div>
+																							</div>
+																						</div>
+																					</div>
+																					<div class="row">
+																					<div class="col-md-6">
+																						<div class="form-group">
+																							<label class="control-label col-md-3">Operador</label>
+																							<div class="col-md-9">
+																									<input type="text" class="form-control" >
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+																				<div class="form-actions">
+																					<div class="row">
+																						<div class="col-md-offset-9 col-md-8">
+																							<button type="submit" class="btn green">Submeter</button>
+																							<button type="button" class="btn default">Cancelar</button>
+																						</div>
+																					</div>
+																				</div>
 
-										</form>
-										<!-- END FORM-->
-									</div>
-								</div>
+																								</div>
+																								</div>
+																							</form>
+																							<!-- END FORM-->
+																						</div>
+																					</div>
 
-										<!-- END FORM-->
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+																							<!-- END FORM-->
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
 			<!-- END PAGE CONTENT INNER -->
 		</div>
 	</div>
