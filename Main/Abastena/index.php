@@ -74,398 +74,7 @@
 			<!-- BEGIN MEGA MENU -->
 			<!-- DOC: Apply "hor-menu-light" class after the "hor-menu" class below to have a horizontal menu with white background -->
 			<!-- DOC: Remove data-hover="dropdown" and data-close-others="true" attributes below to disable the dropdown opening on mouse hover -->
-			<div class="hor-menu ">
-				<ul class="nav navbar-nav">
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full active">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						GGFA <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu" style="min-width: 710px">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Produtores</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Totais / Estatística </a>
-												</li>
-												<li>
-													<a href="ecommerce_products.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Pesquisas / Relatórios </a>
-												</li>
-												<li>
-													<a href="ecommerce_products_edit.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Visualizador </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Matas</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Totais / Estatística </a>
-												</li>
-												<li>
-													<a href="ecommerce_products.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Pesquisas / Relatórios </a>
-												</li>
-												<li>
-													<a href="ecommerce_products_edit.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Visualizador </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Planos de Gestão</h3>
-												</li>
-												<li>
-													<a href="layout_click_dropdowns.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Conservação </a>
-												</li>
-												<li>
-													<a href="layout_fontawesome_icons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Produção </a>
-												</li>
-												<li>
-													<a href="layout_glyphicons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Protecção </a>
-												</li>
-												<li>
-													<a href="layout_language_bar.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Geral </a>
-												</li>
-												<li>
-													<a href="layout_disabled_menu.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Relatório </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Gestão de Riscos</h3>
-												</li>
-												<li>
-													<a href="layout_click_dropdowns.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Incêndio </a>
-												</li>
-												<li>
-													<a href="layout_fontawesome_icons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Geomorfológico </a>
-												</li>
-												<li>
-													<a href="layout_glyphicons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Social </a>
-												</li>
-												<li>
-													<a href="layout_language_bar.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Ambiental </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full ">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						BFA <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Fornecedores</h3>
-												</li>
-												<li>
-													<a href="ui_general.html">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ui_buttons.html">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						Vistorias <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu" style="min-width: 710px">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Caracterização da Mata</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Acompanhamento <br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="vistoriaplaneamento.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-												<li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Planeamento<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="vistoriaplaneamento.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Operacionais<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Levantamento Biodiversidade</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-												<li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Registo de Vistorias<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista de todas as vistorias </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Não Conformidades/Falhas<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Listar todas as falhas</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Cronograma - Quadro de Monitorizações</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Cronograma Geral das Vistorias e Resolução de Falhas</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full ">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						Notas de Entrega <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Nova Nota de Entrega</h3>
-												</li>
-												<li>
-													<a href="page_timeline.html">
-													<i class="fa fa-angle-right"></i>
-												Imprimir</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Lista das Notas de Entrega</h3>
-												</li>
-												<li>
-													<a href="extra_faq.html">
-													<i class="fa fa-angle-right"></i>
-													Listas Emitidas </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Validação</h3>
-												</li>
-												<li>
-													<a href="page_news.html">
-													<i class="fa fa-angle-right"></i>
-													Comparar valores</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Comunicação ICNF - manifestos de corte</h3>
-												</li>
-												<li>
-													<a href="extra_lock.html">
-													<i class="fa fa-angle-right"></i>
-													Gerar ficheiro excel </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</div>
+				<?php include 'menu.html'; ?>
 			<!-- END MEGA MENU -->
 		</div>
 	</div>
@@ -507,7 +116,7 @@
 										 Produtores
 									</div>
 								</div>
-								<a class="more" href="javascript:;">
+								<a class="more" href="listaprodutores.php">
 								Ver <i class="m-icon-swapright m-icon-white"></i>
 								</a>
 							</div>
@@ -525,7 +134,7 @@
 										 Matas
 									</div>
 								</div>
-								<a class="more" href="javascript:;">
+								<a class="more" href="listamatas.php">
 								Ver <i class="m-icon-swapright m-icon-white"></i>
 								</a>
 							</div>
@@ -543,7 +152,7 @@
 										 Matas/Produtores
 									</div>
 								</div>
-								<a class="more" href="javascript:;">
+								<a class="more" href="mataseprodutores.php">
 								Ver <i class="m-icon-swapright m-icon-white"></i>
 								</a>
 							</div>
@@ -561,7 +170,7 @@
 										 Esp. Povoamento
 									</div>
 								</div>
-								<a class="more" href="javascript:;">
+								<a class="more" href="esp_povoamento.php">
 								Ver <i class="m-icon-swapright m-icon-white"></i>
 								</a>
 							</div>
@@ -581,7 +190,7 @@
 									 Puros e Mistos
 								</div>
 							</div>
-							<a class="more" href="javascript:;">
+							<a class="more" href="purosemistos.php">
 							Ver <i class="m-icon-swapright m-icon-white"></i>
 							</a>
 						</div>
@@ -600,7 +209,7 @@
 								 Mistos não diferenciados
 							</div>
 						</div>
-						<a class="more" href="javascript:;">
+						<a class="more" href="mistosnaodiferenciados.php">
 						Ver <i class="m-icon-swapright m-icon-white"></i>
 						</a>
 					</div>
@@ -619,7 +228,7 @@
 							 BFA
 						</div>
 					</div>
-					<a class="more" href="javascript:;">
+					<a class="more" href="bfa.php">
 					Ver <i class="m-icon-swapright m-icon-white"></i>
 					</a>
 				</div>
@@ -638,7 +247,7 @@
 						 Vistorias
 					</div>
 				</div>
-				<a class="more" href="javascript:;">
+				<a class="more" href="vistorias.php">
 				Ver <i class="m-icon-swapright m-icon-white"></i>
 				</a>
 			</div>
