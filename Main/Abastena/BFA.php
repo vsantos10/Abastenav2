@@ -18,7 +18,7 @@ License: You must have a valid license purchased only from themeforest(the above
 <!-- BEGIN HEAD -->
 <head>
 <meta charset="utf-8"/>
-<title>Metronic | Advanced Datatables</title>
+<title>Lista Produtores</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -54,165 +54,7 @@ License: You must have a valid license purchased only from themeforest(the above
 <!-- BEGIN HEADER -->
 <div class="page-header">
 	<!-- BEGIN HEADER TOP -->
-	<div class="page-header-top">
-	  <div class="container">
-	    <!-- BEGIN LOGO -->
-	    <div class="page-logo">
-
-	    </div>
-	    <!-- END LOGO -->
-	    <!-- BEGIN RESPONSIVE MENU TOGGLER -->
-	    <a href="javascript:;" class="menu-toggler"></a>
-	    <!-- END RESPONSIVE MENU TOGGLER -->
-	    <!-- BEGIN TOP NAVIGATION MENU -->
-	    <div class="top-menu">
-	      <ul class="nav navbar-nav pull-right">
-	        <!-- BEGIN NOTIFICATION DROPDOWN -->
-	        <li class="dropdown dropdown-extended dropdown-dark dropdown-notification" id="header_notification_bar">
-	          <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-	          <i class="icon-bell"></i>
-	          <span class="badge badge-default">3</span>
-	          </a>
-	          <ul class="dropdown-menu">
-	            <li class="external">
-	              <h3>Tem <strong>3 novas</strong> notificações</h3>
-	              <a href="javascript:;">ver tudo</a>
-	            </li>
-	            <li>
-	              <ul class="dropdown-menu-list scroller" style="height: 250px;" data-handle-color="#637283">
-	                <li>
-	                  <a href="javascript:;">
-	                  <span class="time">2 min</span>
-	                  <span class="detfails">
-	                  <span class="label label-sm label-icon label-success">
-	                  <i class="fa fa-plus"></i>
-	                  </span>
-	                  Resposta ao requerimento </span>
-	                  </a>
-	                </li>
-	                <li>
-	                  <a href="javascript:;">
-	                  <span class="time">3 mins</span>
-	                  <span class="details">
-	                  <span class="label label-sm label-icon label-danger">
-	                  <i class="fa fa-bolt"></i>
-	                  </span>
-	                  Adicionados conteúdos à sua plataforma. </span>
-	                  </a>
-	                </li>
-	                <li>
-	                  <a href="javascript:;">
-	                  <span class="time">15 mins</span>
-	                  <span class="details">
-	                  <span class="label label-sm label-icon label-warning">
-	                  <i class="fa fa-bell-o"></i>
-	                  </span>
-	                  Conteúdo necessita de revisão.  </span>
-	                  </a>
-	                </li>
-	              </ul>
-	            </li>
-	          </ul>
-	        </li>
-	        <!-- END NOTIFICATION DROPDOWN -->
-	        <!-- BEGIN TODO DROPDOWN -->
-	      <!--	-->
-	        <!-- END TODO DROPDOWN -->
-	        <li class="droddown dropdown-separator">
-	          <span class="separator"></span>
-	        </li>
-	        <!-- BEGIN INBOX DROPDOWN -->
-	        <li class="dropdown dropdown-extended dropdown-dark dropdown-inbox" id="header_inbox_bar">
-	          <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-	          <span class="circle">2</span>
-	          <span class="corner"></span>
-	          </a>
-	          <ul class="dropdown-menu">
-	            <li class="external">
-	              <h3>Tem <strong>2 novas</strong> Messagens</h3>
-	              <a href="javascript:;">ver todas</a>
-	            </li>
-	            <li>
-	              <ul class="dropdown-menu-list scroller" style="height: 275px;" data-handle-color="#637283">
-	                <li>
-	                  <a href="inbox.html?a=view">
-	                  <span class="photo">
-	                  <img src="../../assets/admin/layout3/img/avatar3.jpg" class="img-circle" alt="">
-	                  </span>
-	                  <span class="subject">
-	                  <span class="from">
-	                  Hugo Cavaleiro </span>
-	                  <span class="time">Just Now </span>
-	                  </span>
-	                  <span class="message">
-	                  Teste de mensagem entre contas.</span>
-	                  </a>
-	                </li>
-	                <li>
-	                  <a href="inbox.html?a=view">
-	                  <span class="photo">
-	                  <img src="../../assets/admin/layout3/img/avatar3.jpg" class="img-circle" alt="">
-	                  </span>
-	                  <span class="subject">
-	                  <span class="from">
-	                  Hugo Cavaleiro </span>
-	                  <span class="time">16 mins </span>
-	                  </span>
-	                  <span class="message">
-	                  Teste de mensagem entre contas. V2 </span>
-	                  </a>
-	                </li>
-	              </ul>
-	            </li>
-	          </ul>
-	        </li>
-	        <!-- END INBOX DROPDOWN -->
-	        <!-- BEGIN USER LOGIN DROPDOWN -->
-	        <li class="dropdown dropdown-user dropdown-dark">
-	          <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-	          <img alt="" class="img-circle" src="../../assets/admin/layout3/img/avatar9.jpg">
-	          <span class="username username-hide-mobile">Pedro Santos</span>
-	          </a>
-	          <ul class="dropdown-menu dropdown-menu-default">
-	            <li>
-	              <a href="utilizador.php">
-	              <i class="icon-user"></i> Meu Perfil </a>
-	            </li>
-	            <li>
-	              <a href="page_calendar.html">
-	              <i class="icon-bell"></i> Notificações </a>
-	            </li>
-	            <li>
-	              <a href="inbox.html">
-	              <i class="icon-envelope-open"></i> Caixa Mensagens <span class="badge badge-danger">
-	              2 </span>
-	              </a>
-	            </li>
-	            <li class="divider">
-	            </li>
-	            <li>
-	              <a href="extra_lock.html">
-	              <i class="icon-lock"></i> Bloquear Conta </a>
-	            </li>
-	            <li>
-	              <a href="login.html">
-	              <i class="icon-key"></i> Sair </a>
-	            </li>
-	          </ul>
-	        </li>
-	        <!-- END USER LOGIN DROPDOWN -->
-	        <!-- BEGIN USER LOGIN DROPDOWN -->
-	        <li class="dropdown dropdown-extended quick-sidebar-toggler">
-	                    <span class="sr-only">Toggle Quick Sidebar</span>
-	                    <i class="icon-logout"></i>
-	                </li>
-	        <!-- END USER LOGIN DROPDOWN -->
-	      </ul>
-	    </div>
-	    <!-- END TOP NAVIGATION MENU -->
-	  </div>
-	</div>
-
+<?php include 'header.html';?>
 	<!-- END HEADER TOP -->
 	<!-- BEGIN HEADER MENU -->
 	<div class="page-header-menu">
@@ -220,7 +62,7 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!-- BEGIN HEADER SEARCH BOX -->
 			<form class="search-form" action="extra_search.html" method="GET">
 				<div class="input-group">
-					<input type="text" class="form-control" placeholder="Search" name="query">
+					<input type="text" class="form-control" placeholder="" name="query">
 					<span class="input-group-btn">
 					<a href="javascript:;" class="btn submit"><i class="icon-magnifier"></i></a>
 					</span>
@@ -676,7 +518,7 @@ License: You must have a valid license purchased only from themeforest(the above
 						<div class="portlet-title">
 							<div class="caption">
 								<i class="fa fa-cogs font-green-sharp"></i>
-								<span class="caption-subject font-green-sharp bold uppercase">Datatable with TableTools</span>
+								<span class="caption-subject font-green-sharp bold uppercase">Lista de Matas</span>
 							</div>
 							<div class="tools">
 							</div>
@@ -1450,74 +1292,7 @@ License: You must have a valid license purchased only from themeforest(the above
 </div>
 <!-- END PAGE CONTAINER -->
 <!-- BEGIN PRE-FOOTER -->
-<div class="page-prefooter">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-3 col-sm-6 col-xs-12 footer-block">
-				<h2>About</h2>
-				<p>
-					 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam dolore.
-				</p>
-			</div>
-			<div class="col-md-3 col-sm-6 col-xs12 footer-block">
-				<h2>Subscribe Email</h2>
-				<div class="subscribe-form">
-					<form action="javascript:;">
-						<div class="input-group">
-							<input type="text" placeholder="mail@email.com" class="form-control">
-							<span class="input-group-btn">
-							<button class="btn" type="submit">Submit</button>
-							</span>
-						</div>
-					</form>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-6 col-xs-12 footer-block">
-				<h2>Follow Us On</h2>
-				<ul class="social-icons">
-					<li>
-						<a href="javascript:;" data-original-title="rss" class="rss"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="facebook" class="facebook"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="twitter" class="twitter"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="googleplus" class="googleplus"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="linkedin" class="linkedin"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="youtube" class="youtube"></a>
-					</li>
-					<li>
-						<a href="javascript:;" data-original-title="vimeo" class="vimeo"></a>
-					</li>
-				</ul>
-			</div>
-			<div class="col-md-3 col-sm-6 col-xs-12 footer-block">
-				<h2>Contacts</h2>
-				<address class="margin-bottom-40">
-				Phone: 800 123 3456<br>
-				 Email: <a href="mailto:info@metronic.com">info@metronic.com</a>
-				</address>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- END PRE-FOOTER -->
-<!-- BEGIN FOOTER -->
-<div class="page-footer">
-	<div class="container">
-		 2014 &copy; Metronic by keenthemes. <a href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" title="Purchase Metronic just for 27$ and get lifetime updates for free" target="_blank">Purchase Metronic!</a>
-	</div>
-</div>
-<div class="scroll-to-top">
-	<i class="icon-arrow-up"></i>
-</div>
+<?php include 'footer.html'; ?>
 <!-- END FOOTER -->
 <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
 <!-- BEGIN CORE PLUGINS -->
