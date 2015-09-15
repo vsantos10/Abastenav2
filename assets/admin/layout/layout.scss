@@ -1,6 +1,6 @@
 //## Main Layout CSS Builder
 
-@import '../../global/_variables'; // global metronic framework variables
+@import 'global/_variables'; // global metronic framework variables
 
 /////////////////////////////
 /////////////////////////////
@@ -33,7 +33,7 @@ $screen-md-max:              		($screen-lg-min - 1) !default;
 /////////////////////////////
 /////////////////////////////
 
-@import '../../global/components/_mixins'; // global metronic framework mixings
+@import 'global/components/_mixins'; // global metronic framework mixings
 
 @import '_variables'; // theme level variables  
 

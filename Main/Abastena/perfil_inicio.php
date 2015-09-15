@@ -26,22 +26,22 @@ License: You must have a valid license purchased only from themeforest(the above
 <meta content="" name="author"/>
 <!-- BEGIN GLOBAL MANDATORY STYLES -->
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css">
-<link href="../../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="../../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
-<link href="../../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="../../assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css">
+<link href="assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+<link href="assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css">
 <!-- END GLOBAL MANDATORY STYLES -->
 <!-- BEGIN PAGE LEVEL STYLES -->
-<link href="../../assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.css" rel="stylesheet" type="text/css"/>
-<link href="../../assets/admin/pages/css/profile.css" rel="stylesheet" type="text/css"/>
-<link href="../../assets/admin/pages/css/tasks.css" rel="stylesheet" type="text/css"/>
+<link href="assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.css" rel="stylesheet" type="text/css"/>
+<link href="assets/admin/pages/css/profile.css" rel="stylesheet" type="text/css"/>
+<link href="assets/admin/pages/css/tasks.css" rel="stylesheet" type="text/css"/>
 <!-- END PAGE LEVEL STYLES -->
 <!-- BEGIN THEME STYLES -->
-<link href="../../assets/global/css/components-rounded.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../../assets/global/css/plugins.css" rel="stylesheet" type="text/css">
-<link href="../../assets/admin/layout3/css/layout.css" rel="stylesheet" type="text/css">
-<link href="../../assets/admin/layout3/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color">
-<link href="../../assets/admin/layout3/css/custom.css" rel="stylesheet" type="text/css">
+<link href="assets/global/css/components-rounded.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="assets/global/css/plugins.css" rel="stylesheet" type="text/css">
+<link href="assets/admin/layout3/css/layout.css" rel="stylesheet" type="text/css">
+<link href="assets/admin/layout3/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color">
+<link href="assets/admin/layout3/css/custom.css" rel="stylesheet" type="text/css">
 <!-- END THEME STYLES -->
 <link rel="shortcut icon" href="favicon.ico"/>
 </head>
@@ -588,7 +588,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</thead>
 											<tr>
 												<td class="fit">
-													<img class="user-pic" src="../../assets/admin/layout3/img/avatar4.jpg">
+													<img class="user-pic" src="assets/admin/layout3/img/avatar4.jpg">
 												</td>
 												<td>
 													<a href="javascript:;" class="primary-link">Brain</a>
@@ -608,7 +608,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</tr>
 											<tr>
 												<td class="fit">
-													<img class="user-pic" src="../../assets/admin/layout3/img/avatar5.jpg">
+													<img class="user-pic" src="assets/admin/layout3/img/avatar5.jpg">
 												</td>
 												<td>
 													<a href="javascript:;" class="primary-link">Nick</a>
@@ -628,7 +628,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</tr>
 											<tr>
 												<td class="fit">
-													<img class="user-pic" src="../../assets/admin/layout3/img/avatar6.jpg">
+													<img class="user-pic" src="assets/admin/layout3/img/avatar6.jpg">
 												</td>
 												<td>
 													<a href="javascript:;" class="primary-link">Tim</a>
@@ -648,7 +648,7 @@ License: You must have a valid license purchased only from themeforest(the above
 											</tr>
 											<tr>
 												<td class="fit">
-													<img class="user-pic" src="../../assets/admin/layout3/img/avatar7.jpg">
+													<img class="user-pic" src="assets/admin/layout3/img/avatar7.jpg">
 												</td>
 												<td>
 													<a href="javascript:;" class="primary-link">Tom</a>
@@ -1341,7 +1341,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="item">
 													<div class="item-head">
 														<div class="item-details">
-															<img class="item-pic" src="../../assets/admin/layout3/img/avatar4.jpg">
+															<img class="item-pic" src="assets/admin/layout3/img/avatar4.jpg">
 															<a href="" class="item-name primary-link">Hugo Cavaleiro</a>
 															<span class="item-label">3 horas atrás</span>
 														</div>
@@ -1354,7 +1354,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="item">
 													<div class="item-head">
 														<div class="item-details">
-															<img class="item-pic" src="../../assets/admin/layout3/img/avatar4.jpg">
+															<img class="item-pic" src="assets/admin/layout3/img/avatar4.jpg">
 															<a href="" class="item-name primary-link">Hugo Cavaleiro</a>
 															<span class="item-label">5 horas atrás</span>
 														</div>
@@ -1367,7 +1367,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="item">
 													<div class="item-head">
 														<div class="item-details">
-															<img class="item-pic" src="../../assets/admin/layout3/img/avatar4.jpg">
+															<img class="item-pic" src="assets/admin/layout3/img/avatar4.jpg">
 															<a href="" class="item-name primary-link">Hugo Cavaleiro</a>
 															<span class="item-label">8 horas atrás</span>
 														</div>
@@ -1380,7 +1380,7 @@ License: You must have a valid license purchased only from themeforest(the above
 												<div class="item">
 													<div class="item-head">
 														<div class="item-details">
-															<img class="item-pic" src="../../assets/admin/layout3/img/avatar4.jpg">
+															<img class="item-pic" src="assets/admin/layout3/img/avatar4.jpg">
 															<a href="" class="item-name primary-link">Hugo Cavaleiro</a>
 															<span class="item-label">12 horas atrás</span>
 														</div>
@@ -1515,29 +1515,29 @@ License: You must have a valid license purchased only from themeforest(the above
 <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
 <!-- BEGIN CORE PLUGINS -->
 <!--[if lt IE 9]>
-<script src="../../assets/global/plugins/respond.min.js"></script>
-<script src="../../assets/global/plugins/excanvas.min.js"></script>
+<script src="assets/global/plugins/respond.min.js"></script>
+<script src="assets/global/plugins/excanvas.min.js"></script>
 <![endif]-->
-<script src="../../assets/global/plugins/jquery.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery-migrate.min.js" type="text/javascript"></script>
 <!-- IMPORTANT! Load jquery-ui.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
-<script src="../../assets/global/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/jquery.cokie.min.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery.cokie.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/uniform/jquery.uniform.min.js" type="text/javascript"></script>
 <!-- END CORE PLUGINS -->
 <!-- BEGIN PAGE LEVEL PLUGINS -->
-<script src="../../assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js" type="text/javascript"></script>
-<script src="../../assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery.sparkline.min.js" type="text/javascript"></script>
 <!-- END PAGE LEVEL PLUGINS -->
 <!-- BEGIN PAGE LEVEL SCRIPTS -->
-<script src="../../assets/global/scripts/metronic.js" type="text/javascript"></script>
-<script src="../../assets/admin/layout3/scripts/layout.js" type="text/javascript"></script>
-<script src="../../assets/admin/layout3/scripts/demo.js" type="text/javascript"></script>
-<script src="../../assets/admin/pages/scripts/profile.js" type="text/javascript"></script>
+<script src="assets/global/scripts/metronic.js" type="text/javascript"></script>
+<script src="assets/admin/layout3/scripts/layout.js" type="text/javascript"></script>
+<script src="assets/admin/layout3/scripts/demo.js" type="text/javascript"></script>
+<script src="assets/admin/pages/scripts/profile.js" type="text/javascript"></script>
 <!-- END PAGE LEVEL SCRIPTS -->
 <script>
 jQuery(document).ready(function() {

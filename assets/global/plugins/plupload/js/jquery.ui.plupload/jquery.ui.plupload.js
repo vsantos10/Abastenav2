@@ -43,8 +43,8 @@ _jQuery UI_ widget factory, there are some specifics. See examples below for mor
 			],
 			rename: true,
 			sortable: true,
-			flash_swf_url : '../../js/Moxie.swf',
-			silverlight_xap_url : '../../js/Moxie.xap',
+			flash_swf_url : 'js/Moxie.swf',
+			silverlight_xap_url : 'js/Moxie.xap',
 		});
 	</script>
 

@@ -29,8 +29,8 @@ used as it is.
 				{title : "Image files", extensions : "jpg,gif,png"}
 			],
 			rename: true,
-			flash_swf_url : '../../js/Moxie.swf',
-			silverlight_xap_url : '../../js/Moxie.xap',
+			flash_swf_url : 'js/Moxie.swf',
+			silverlight_xap_url : 'js/Moxie.xap',
 		});
 	</script>
 
