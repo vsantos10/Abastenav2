@@ -77,15 +77,15 @@
         
 
         // Define selected elements.
-        self.$wrapper = self.$element.next('div[data-selectsplitter-wrapper-selector]'); // improved by keenthemes
-        self.$firstSelect = $('select[data-selectsplitter-firstselect-selector]', self.$wrapper); // improved by keenthemes
-        self.$secondSelect = $('select[data-selectsplitter-secondselect-selector]', self.$wrapper); // improved by keenthemes
+        self.$wrapper = self.$element.next('div[data-selectsplitter-wrapper-selector]'); // improved by 
+        self.$firstSelect = $('select[data-selectsplitter-firstselect-selector]', self.$wrapper); // improved by 
+        self.$secondSelect = $('select[data-selectsplitter-secondselect-selector]', self.$wrapper); // improved by 
         
         // Define $firstSelect and $secondSelect size attribute
         var selectSize = Math.max(optgroupCount, longestOptionCount);
         selectSize = Math.min(selectSize, 10);
         if (self.options.selectSize) {
-            selectSize = self.options.selectSize; // improved by keenthemes
+            selectSize = self.options.selectSize; // improved by 
         }
         self.$firstSelect.attr('size', selectSize);
         self.$secondSelect.attr('size', selectSize);

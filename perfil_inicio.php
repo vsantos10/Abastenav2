@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <!--
-Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.5
-Version: 4.1.0
-Author: KeenThemes
-Website: http://www.keenthemes.com/
-Contact: support@keenthemes.com
-Follow: www.twitter.com/keenthemes
-Like: www.facebook.com/keenthemes
-Purchase: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+
+
+Author: 
+Website: http://www..com/
+Contact: support@.com
+Follow: www.twitter.com/
+
+
 License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
 -->
 <!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
@@ -1460,8 +1460,8 @@ License: You must have a valid license purchased only from themeforest(the above
 														</div>
 														<div class="task-title">
 															<span class="task-title-sp">
-															KeenThemes Investment Discussion </span>
-															<span class="label label-sm label-warning">KeenThemes </span>
+															 Investment Discussion </span>
+															<span class="label label-sm label-warning"> </span>
 														</div>
 														<div class="task-config">
 															<div class="task-config-btn btn-group">

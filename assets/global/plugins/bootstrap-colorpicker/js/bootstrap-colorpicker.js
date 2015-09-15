@@ -135,7 +135,7 @@
 		var format = options.format||this.element.data('color-format')||'hex';
 		this.format = CPGlobal.translateFormats[format];
 		this.isInput = this.element.is('input');
-		this.component = this.element.is('.color') ? this.element.find('.input-group-btn') : false; // modified by keenthemes for Bootstrap 3.0 support
+		this.component = this.element.is('.color') ? this.element.find('.input-group-btn') : false; // modified by  for Bootstrap 3.0 support
 		
 		this.picker = $(CPGlobal.template)
 							.appendTo('body')

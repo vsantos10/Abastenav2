@@ -5,7 +5,7 @@
  * Improvements by Andrew Rowls
  * Improvements by Sébastien Malot
  * Improvements by Yun Lai
- * Improved by Keenthemes for Bootstrap 3.0 Support
+ * Improved by  for Bootstrap 3.0 Support
 
  * Project URL : http://www.malot.fr/bootstrap-datetimepicker
  *

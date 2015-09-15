@@ -9,10 +9,10 @@ var ComponentsFormTools = function () {
           queryTokenizer: Bloodhound.tokenizers.whitespace,
           local: [
             { num: 'metronic' },
-            { num: 'keenthemes' },
+            { num: '' },
             { num: 'metronic theme' },
             { num: 'metronic template' },
-            { num: 'keenthemes team' }
+            { num: ' team' }
           ]
         });
          
@@ -140,10 +140,10 @@ var ComponentsFormTools = function () {
           queryTokenizer: Bloodhound.tokenizers.whitespace,
           local: [
             { num: 'metronic' },
-            { num: 'keenthemes' },
+            { num: '' },
             { num: 'metronic theme' },
             { num: 'metronic template' },
-            { num: 'keenthemes team' }
+            { num: ' team' }
           ]
         });
          

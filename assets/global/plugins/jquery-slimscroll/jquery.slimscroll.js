@@ -2,7 +2,7 @@
  * Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php)
  * and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
  *
- * Improved by keenthemes for Metronic Theme
+ * Improved by  for Metronic Theme
  * Version: 1.3.2
  *
  */
@@ -79,7 +79,7 @@
                 // sets border radius of the rail
                 railBorderRadius: '7px',
 
-                // sets animation status on a given scroll(added my keenthemes)
+                // sets animation status on a given scroll(added my )
                 animate: true
             };
 
@@ -97,11 +97,11 @@
                 // used in event handlers and for better minification
                 var me = $(this);
 
-                //begin: windows phone fix added by keenthemes
+                //begin: windows phone fix added by 
                 if ('ontouchstart' in window && window.navigator.msPointerEnabled) {
                   me.css("-ms-touch-action", "none");
               }
-                //end: windows phone fix added by keenthemes
+                //end: windows phone fix added by 
 
                 // ensure we are not binding it again
                 if (me.parent().hasClass(o.wrapperClass)) {
@@ -241,7 +241,7 @@
                     });
                 }
 
-                //begin: windows phone fix added by keenthemes
+                //begin: windows phone fix added by 
                 if ('ontouchstart' in window && window.navigator.msPointerEnabled) {
                     me.bind('MSPointerDown', function(e, b) {
                         // record where touch started
@@ -258,7 +258,7 @@
                         touchDif = e.originalEvent.pageY;
                     });
                 }
-                //end: windows phone fix added by keenthemes
+                //end: windows phone fix added by 
 
                 // on rail over
                 rail.hover(function() {
