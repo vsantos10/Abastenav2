@@ -5,6 +5,9 @@
 /*--------------------------------------------------
     [RGBA Opacity]
 ----------------------------------------------------*/
+li.dropdown.dropdown-extended.quick-sidebar-toggler{
+  display:none !important;
+}
 @media print {
   body {
     background-color: #fff !important;
