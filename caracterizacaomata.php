@@ -69,398 +69,7 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!-- BEGIN MEGA MENU -->
 			<!-- DOC: Apply "hor-menu-light" class after the "hor-menu" class below to have a horizontal menu with white background -->
 			<!-- DOC: Remove data-hover="dropdown" and data-close-others="true" attributes below to disable the dropdown opening on mouse hover -->
-			<div class="hor-menu ">
-				<ul class="nav navbar-nav">
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full active">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						GGFA <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu" style="min-width: 710px">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Produtores</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Totais / Estatística </a>
-												</li>
-												<li>
-													<a href="ecommerce_products.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Pesquisas / Relatórios </a>
-												</li>
-												<li>
-													<a href="ecommerce_products_edit.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Visualizador </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Matas</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Totais / Estatística </a>
-												</li>
-												<li>
-													<a href="ecommerce_products.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Pesquisas / Relatórios </a>
-												</li>
-												<li>
-													<a href="ecommerce_products_edit.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Visualizador </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Planos de Gestão</h3>
-												</li>
-												<li>
-													<a href="layout_click_dropdowns.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Conservação </a>
-												</li>
-												<li>
-													<a href="layout_fontawesome_icons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Produção </a>
-												</li>
-												<li>
-													<a href="layout_glyphicons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Áreas de Protecção </a>
-												</li>
-												<li>
-													<a href="layout_language_bar.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Geral </a>
-												</li>
-												<li>
-													<a href="layout_disabled_menu.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Relatório </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Gestão de Riscos</h3>
-												</li>
-												<li>
-													<a href="layout_click_dropdowns.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Incêndio </a>
-												</li>
-												<li>
-													<a href="layout_fontawesome_icons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Geomorfológico </a>
-												</li>
-												<li>
-													<a href="layout_glyphicons.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Social </a>
-												</li>
-												<li>
-													<a href="layout_language_bar.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Ambiental </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full ">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						BFA <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Fornecedores</h3>
-												</li>
-												<li>
-													<a href="ui_general.html">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ui_buttons.html">
-													<i class="fa fa-angle-right"></i>
-													Novo </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						Vistorias <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu" style="min-width: 710px">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Caracterização da Mata</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="vistoriaplaneamento.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Acompanhamento <br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="vistoriaplaneamento.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-												<li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Planeamento<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Operacionais<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-2">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Levantamento Biodiversidade</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Nova </a>
-												</li>
-												<li>
-													<a href="ecommerce_orders_view.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Agenda </a>
-												</li>
-												<li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Registo de Vistorias<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Lista de todas as vistorias </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Não Conformidades/Falhas<br/><br/></h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Listar todas as falhas</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-3">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Cronograma - Quadro de Monitorizações</h3>
-												</li>
-												<li>
-													<a href="ecommerce_index.html" class="iconify">
-													<i class="fa fa-angle-right"></i>
-													Cronograma Geral das Vistorias e Resolução de Falhas</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="menu-dropdown mega-menu-dropdown mega-menu-full ">
-						<a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
-						Notas de Entrega <i class="fa fa-angle-down"></i>
-						</a>
-						<ul class="dropdown-menu">
-							<li>
-								<div class="mega-menu-content">
-									<div class="row">
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Nova Nota de Entrega</h3>
-												</li>
-												<li>
-													<a href="page_timeline.html">
-													<i class="fa fa-angle-right"></i>
-												Imprimir</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Lista das Notas de Entrega</h3>
-												</li>
-												<li>
-													<a href="extra_faq.html">
-													<i class="fa fa-angle-right"></i>
-													Listas Emitidas </a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Validação</h3>
-												</li>
-												<li>
-													<a href="page_news.html">
-													<i class="fa fa-angle-right"></i>
-													Comparar valores</a>
-												</li>
-											</ul>
-										</div>
-										<div class="col-md-5">
-											<ul class="mega-menu-submenu">
-												<li>
-													<h3>Comunicação ICNF - manifestos de corte</h3>
-												</li>
-												<li>
-													<a href="extra_lock.html">
-													<i class="fa fa-angle-right"></i>
-													Gerar ficheiro excel </a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</div>
+			<?php include 'menu.html'; ?>
 			<!-- END MEGA MENU -->
 		</div>
 	</div>
@@ -528,7 +137,7 @@ License: You must have a valid license purchased only from themeforest(the above
 									<div class="portlet-title">
 										<div class="caption">
 											<i class="icon-equalizer font-red-sunglo"></i>
-											<span class="caption-subject font-red-sunglo bold uppercase">	F-10: Vistoria de Planeamento e Acompanhamento</span>
+											<span class="caption-subject font-red-sunglo bold uppercase">	F-16: Caracterização da Mata</span>
 
 										</div>
 
@@ -548,9 +157,17 @@ License: You must have a valid license purchased only from themeforest(the above
 														</div>
 													</div>
 													<!--/span-->
-													<div class="col-md-6">
+													<div class="col-md-3">
 														<div class="form-group">
-															<label class="control-label col-md-3">Nº</label>
+															<label class="control-label col-md-3">CP</label>
+															<div class="col-md-9">
+															<input type="text" class="form-control" >
+															</div>
+														</div>
+													</div>
+													<div class="col-md-3">
+														<div class="form-group">
+															<label class="control-label col-md-3">P</label>
 															<div class="col-md-9">
 															<input type="text" class="form-control" >
 															</div>
@@ -560,64 +177,395 @@ License: You must have a valid license purchased only from themeforest(the above
 												</div>
 												<!--/row-->
 												<div class="row">
+												<div class="col-md-9">
+													<div class="form-group">
+														<label class="control-label col-md-2">Proprietário</label>
+														<div class="col-md-10">
+														<input type="text" class="form-control" >
+														</div>
+													</div>
+												</div>
+													</div>
+												<div class="row">
 													<div class="col-md-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Membro do GGFA:</label>
+															<label class="control-label col-md-3">Nome da Mata</label>
 															<div class="col-md-9">
 																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-													<div class="col-md-6">
+													<div class="col-md-3">
 														<div class="form-group">
-															<label class="control-label col-md-3">Código</label>
+															<label class="control-label col-md-3">CM</label>
+															<div class="col-md-9">
+																<input type="text" class="form-control">
+															</div>
+														</div>
+													</div>
+													<div class="col-md-3">
+														<div class="form-group">
+															<label class="control-label col-md-3">M</label>
 															<div class="col-md-9">
 																<input type="text" class="form-control">
 															</div>
 														</div>
 													</div>
 												</div>
-													<div class="row">
+												<div class="row">
 													<div class="col-md-9">
 														<div class="form-group">
-															<label class="control-label col-md-2">Motivo</label>
+															<label class="control-label col-md-2">Local</label>
 															<div class="col-md-10">
-															<input type="text" class="form-control" >
+																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-													<!--/span-->
-
-													<!--/span-->
 												</div>
-												<!--/row-->
 												<div class="row">
-													<div class="col-md-6">
+													<div class="col-md-9">
 														<div class="form-group">
-															<label class="control-label col-md-3">Código da Mata </label>
-															<div class="col-md-9">
-																	<input type="text" class="form-control">
+															<label class="control-label col-md-2">Freguesia</label>
+															<div class="col-md-10">
+																	<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-													<!--/span-->
-
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3"></label>
+														</div>
+														<div class="row">
 															<div class="col-md-9">
+																<div class="form-group">
+																	<label class="control-label col-md-2">Concelho</label>
+																	<div class="col-md-10">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+																</div>
+																<div class="row">
+																	<div class="col-md-9">
+																		<div class="form-group">
+																			<label class="control-label col-md-2">Artigo/s</label>
+																			<div class="col-md-10">
+																					<input type="text" class="form-control" >
+																			</div>
+																		</div>
+																	</div>
+															</div>
+															<div class="row">
+																<div class="col-md-6">
+																	<div class="form-group">
+																		<label class="control-label col-md-3">Área da Matriz(ha) </label>
+																		<div class="col-md-9">
+																				<input type="text" class="form-control">
+																		</div>
+																	</div>
+																</div>
+																<div class="col-md-6">
+																	<div class="form-group">
+																		<label class="control-label col-md-3">Área GPS (ha) </label>
+																		<div class="col-md-9">
+																				<input type="text" class="form-control">
+																		</div>
+																	</div>
+																</div>
+															</div
+														<!--/row-->
+														<div class="row">
+															<div class="col-md-2">
+																<div class="form-group">
+																	<label class="control-label col-md-11">Identificação dos Limites por</label>
+
+																</div>
+															</div>
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">GPS</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Carta Militar</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Cadastro</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="row">
+															<div class="col-md-2">
+																<div class="form-group">
+																	<label class="control-label col-md-11"></label>
+
+																</div>
+															</div>
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Altitude</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Orto Fotos</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Área de Conservação (ha)</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="row">
+															<div class="col-md-2">
+																<div class="form-group">
+																	<label class="control-label col-md-11"></label>
+
+																</div>
+															</div>
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Lev. Topográfico</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+
+															<div class="col-md-3">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Área de Protecção (ha)</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+														</div>
+													<!--/span-->
+													<div class="row">
+														<div class="col-md-2">
+															<div class="form-group">
+																<label class="control-label col-md-10">Lítigio</label>
+
+															</div>
+														</div>
+
+													<div class="col-md-4">
+														<div class="form-group">
+
+															<div class="col-md-12">
 																<div class="radio-list">
 																	<label class="radio-inline">
 																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	VP </label>
+																	Sim </label>
 																	<label class="radio-inline">
 																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	VA</label>
+																	Não</label>
 																</div>
 															</div>
 														</div>
 													</div>
+													<div class="col-md-6">
+														<div class="form-group">
+															<label class="control-label col-md-3">Tipo</label>
+															<div class="col-md-9">
+																	<input type="text" class="form-control" >
+															</div>
+														</div>
+													</div>
 												</div>
+												<div class="row">
+													<div class="col-md-8">
+														<div class="form-group">
+															<label class="control-label col-md-6">Conversão de Pov.Natural após Novembro de 1994?</label>
+														</div>
+													</div>
+															<div class="col-md-4">
+																<div class="radio-list">
+																	<label class="radio-inline">
+																	<input type="radio" name="optionsRadios2" value="option1"/>
+																	Sim </label>
+																	<label class="radio-inline">
+																	<input type="radio" name="optionsRadios2" value="option2" checked/>
+																	Não </label>
+																</div>
+															</div>
+														</div>
+														<div class="row">
+															<div class="col-md-6">
+																<div class="form-group">
+																	<label class="control-label col-md-8">Tipo de Povoamento antes de Novembro de 1994 &nbsp; </label>
+																</div>
+															</div>
+															<div class="col-md-6">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Tipo</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+																</div>
+
+
+																	<h4 class="form-section"> Tipologia </h4>
+
+																	<table class="table">
+																		<thead>
+																				<tr>
+																					<th class="col-sm-12 col-md-4">Tipo de Infra-Estruturas Rodoviárias ou nas suas Extremas: <br/>(Estradas e ou Estradões)</th>
+																					<th class="col-sm-12 col-md-2">Localização Exemplos:<br/> Na Extrema da Mata, a Norte<br/> ou <br/>Atravessa a Mata, na sua parte Norte</th>
+																					<th class="col-sm-12 col-md-2">Orientação Exemplos:<br/> N - S <br/> E - W <br/> NE - SW <br/> NW - SE</th>
+
+																				</tr>
+																		</thead>
+																	<tbody>
+																		<tr>
+																					<td>
+																							<input type="text" class="form-control" />
+																					</td>
+																					<td>
+																							<input type="text" class="form-control" />
+																					</td>
+																					<td>
+																							<input type="text" class="form-control" />
+																					</td>
+
+																			</tr>
+																			<tr>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+
+																				</tr>
+																				<tr>
+																							<td>
+																									<input type="text" class="form-control" />
+																							</td>
+																							<td>
+																									<input type="text" class="form-control" />
+																							</td>
+																							<td>
+																									<input type="text" class="form-control" />
+																							</td>
+
+																					</tr>
+																					<tr>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+
+																						</tr>
+																	</tbody>
+															</table>
+															<div class="row">
+																<div class="col-md-8">
+																	<div class="form-group">
+																		<label class="control-label col-md-6">Existência de Linhas de Corta Fogo</label>
+																	</div>
+																</div>
+																		<div class="col-md-4">
+																			<div class="radio-list">
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Sim </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option2" checked/>
+																				Não </label>
+																			</div>
+																		</div>
+																	</div>
+
+																			<div class="row">
+																				<div class="col-md-9">
+																					<div class="form-group">
+																						<label class="control-label col-md-2">Tipo de Linhas de Corta Fogo <br/> (Aceiros - Arrifes - Caminhos Florestais nas Extremas</label>
+																						<div class="col-md-7">
+																							 <textarea class="form-control autosizeme" rows="4"></textarea>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="row">
+																				<div class="col-md-9">
+																					<div class="form-group">
+																						<label class="control-label col-md-2">Localização da Inserção na Mata</label>
+																						<div class="col-md-10">
+																								<input type="text" class="form-control" >
+																						</div>
+																					</div>
+																				</div>
+																					</div>
+																					<div class="row">
+																						<div class="col-md-9">
+																							<div class="form-group">
+																								<label class="control-label col-md-2">Orientação das Linhas de Corta Fogo</label>
+																								<div class="col-md-10">
+																										<input type="text" class="form-control" >
+																								</div>
+																							</div>
+																						</div>
+																							</div>
+																							<div class="row">
+																								<div class="col-md-9">
+																									<div class="form-group">
+																										<label class="control-label col-md-2">Proprietário da inha de Corta Fogo<br/> (Proprietário - Pública - Mata Vizinha)</label>
+																										<div class="col-md-10">
+																												<input type="text" class="form-control" >
+																										</div>
+																									</div>
+																								</div>
+																									</div>
+																	<div class="row">
+																		<div class="col-md-3">
+																			<div class="form-group">
+																				<label class="control-label col-md-6">Uso do Solo</label>
+																			</div>
+																		</div>
+																				<div class="col-md-4">
+																					<div class="radio-list">
+																						<label class="radio-inline">
+																						<input type="radio" name="optionsRadios2" value="option1"/>
+																						Sim </label>
+																						<label class="radio-inline">
+																						<input type="radio" name="optionsRadios2" value="option2" checked/>
+																						Não </label>
+																					</div>
+																				</div>
+																			</div>
 													<!--/span-->
 													<div class="row">
 														<div class="col-md-6">
