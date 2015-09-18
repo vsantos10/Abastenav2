@@ -427,6 +427,136 @@ License: You must have a valid license purchased only from themeforest(the above
 																</div>
 															</div>
 																</div>
+			<h4 class="form-section"></h4><br/>
+																<div class="row">
+																	<div class="col-md-2">
+																		<div class="form-group">
+																			<label class="control-label col-md-10">Uso do Solo</label>
+																		</div>
+																	</div>
+																	<div class="col-md-10">
+																	<div class="form-group">
+																			<div class="col-md-12">
+																			<div class="radio-list">
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Florestal </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option2" checked/>
+																				Agro-Florestal</label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Conservação </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Inculto </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Social </label>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="row">
+																<div class="col-md-8">
+																	<div class="form-group">
+																		<label class="control-label col-md-4">Tipo de Povoamento da Mata</label>
+																	</div>
+																</div>
+																		<div class="col-md-4">
+																			<div class="radio-list">
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Puro </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option2" checked/>
+																				Misto </label>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="row">
+																		<div class="col-md-6">
+																			<div class="form-group">
+																				<label class="control-label col-md-10">Espécie Produtivas (Povoamentos)</label>
+																			</div>
+																		</div>
+																	</div>
+
+
+
+
+																<h4 class="form-section"></h4><br>
+																<div class="row">
+																	<div class="col-md-2">
+																		<div class="form-group">
+																			<label class="control-label col-md-10">Acessos à Mata</label>
+																		</div>
+																	</div>
+																	<div class="col-md-4">
+																	<div class="form-group">
+																			<div class="col-md-12">
+																			<div class="radio-list">
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option1"/>
+																				Sim </label>
+																				<label class="radio-inline">
+																				<input type="radio" name="optionsRadios2" value="option2" checked/>
+																				Não</label>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+																<div class="col-md-6">
+																	<div class="form-group">
+																		<label class="control-label col-md-3">Tipo de Acessos</label>
+																		<div class="col-md-9">
+																				<input type="text" class="form-control" >
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="row">
+																<div class="col-md-2">
+																	<div class="form-group">
+																		<label class="control-label col-md-10">Serventia</label>
+																	</div>
+																</div>
+																<div class="col-md-4">
+																<div class="form-group">
+																		<div class="col-md-12">
+																			<label class="control-label col-md-3">Tipo</label>
+																			<div class="col-md-9">
+																					<input type="text" class="form-control" >
+																			</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+															<div class="col-md-6">
+																<div class="form-group">
+																	<label class="control-label col-md-3">Onde</label>
+																	<div class="col-md-9">
+																			<input type="text" class="form-control" >
+																	</div>
+																</div>
+															</div>
+														</div>
+														<br/>
+															<div class="row">
+																<div class="col-md-2">
+																	<div class="form-group">
+																		<label class="control-label col-md-10">Tipo de Rede Viária (Infra-Estruturas)</label>
+																	</div>
+																</div>
+																<div class="col-md-10">
+															<div class="checkbox-list">
+																<label class="col-md-6">Estradas</label>
+																<input class="col-md-6" type="checkbox"> Checkbox 1
+															</div>
+														</div>
+													</div>
 
 
 																	<h4 class="form-section"> Tipologia </h4>
@@ -491,6 +621,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																						</tr>
 																	</tbody>
 															</table>
+																<h4 class="form-section"></h4><br/>
 															<div class="row">
 																<div class="col-md-8">
 																	<div class="form-group">
@@ -542,931 +673,597 @@ License: You must have a valid license purchased only from themeforest(the above
 																							<div class="row">
 																								<div class="col-md-9">
 																									<div class="form-group">
-																										<label class="control-label col-md-2">Proprietário da inha de Corta Fogo<br/> (Proprietário - Pública - Mata Vizinha)</label>
-																										<div class="col-md-10">
-																												<input type="text" class="form-control" >
+																										<label class="control-label col-md-2">Proprietário da Linha de Corta Fogo<br/> (Proprietário - Pública - Mata Vizinha)</label>
+																										<div class="col-md-7">
+																											 <textarea class="form-control autosizeme" rows="4"></textarea>
 																										</div>
 																									</div>
 																								</div>
+																							</div>
+																							<h4 class="form-section">  </h4><br/>
+																							<div class="row">
+																								<div class="col-md-8">
+																									<div class="form-group">
+																										<label class="control-label col-md-6">Pontos de Água</label>
 																									</div>
-																	<div class="row">
-																		<div class="col-md-3">
-																			<div class="form-group">
-																				<label class="control-label col-md-6">Uso do Solo</label>
-																			</div>
-																		</div>
-																				<div class="col-md-4">
-																					<div class="radio-list">
-																						<label class="radio-inline">
-																						<input type="radio" name="optionsRadios2" value="option1"/>
-																						Sim </label>
-																						<label class="radio-inline">
-																						<input type="radio" name="optionsRadios2" value="option2" checked/>
-																						Não </label>
-																					</div>
-																				</div>
-																			</div>
-													<!--/span-->
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Local</label>
-																<div class="col-md-9">
-																		<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Freguesia</label>
-																<div class="col-md-9">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Concelho</label>
-																<div class="col-md-9">
-																		<input type="text" class="form-control" >
-																</div>
-															</div>
-														</div>
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">NºPovoamento onde vai ocorrer a operação</label>
-																<div class="col-md-9">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-                          <!---> <!-->
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Operação Florestal a Executar</label>
-															<div class="col-md-9">
-																	<input type="text" class="form-control" >
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Data de execução</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-											  <div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Operador / Transportador</label>
-															<div class="col-md-9">
-																	<input type="text" class="form-control" >
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Código da BFA</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Termo de Responsabilidade</label>
-															<div class="col-md-9">
-																<div class="radio-list">
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	Sim </label>
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	Não </label>
-																</div>
-															</div>
-														</div>
-													</div>
-													<!--/span-->
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Mapa ou Croqui da Propriedade</label>
-															<div class="col-md-9">
-																<div class="radio-list">
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	Sim </label>
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	Não </label>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Plano ou Projecto</label>
-																<div class="col-md-9">
-																	<div class="radio-list">
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option1"/>
-																		Sim </label>
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option2" checked/>
-																		Não </label>
-																	</div>
-																</div>
-															</div>
-														</div>
-														<!--/span-->
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Licenças e Autorizações</label>
-																<div class="col-md-9">
-																	<div class="radio-list">
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option1"/>
-																		Sim </label>
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option2" checked/>
-																		Não </label>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-														<div class="row">
-															<div class="col-md-6">
-																<div class="form-group">
-																	<label class="control-label col-md-3">Povoamento terá nova arborização?</label>
-																	<div class="col-md-9">
-																		<div class="radio-list">
-																			<label class="radio-inline">
-																			<input type="radio" name="optionsRadios2" value="option1"/>
-																			Sim </label>
-																			<label class="radio-inline">
-																			<input type="radio" name="optionsRadios2" value="option2" checked/>
-																			Não </label>
-																		</div>
-																	</div>
-																</div>
-															</div>
+																								</div>
+																										<div class="col-md-4">
+																											<div class="radio-list">
+																												<label class="radio-inline">
+																												<input type="radio" name="optionsRadios2" value="option1"/>
+																												Sim </label>
+																												<label class="radio-inline">
+																												<input type="radio" name="optionsRadios2" value="option2" checked/>
+																												Não </label>
+																											</div>
+																										</div>
+																									</div>
+																									<div class="row">
+																										<div class="col-md-9">
+																											<div class="form-group">
+																												<label class="control-label col-md-2">Tipo de Ponto de Água</label>
+																												<div class="col-md-10">
+																														<input type="text" class="form-control" >
+																												</div>
+																											</div>
+																										</div>
+																											</div>
+																											<div class="row">
+																												<div class="col-md-8">
+																													<div class="form-group">
+																														<label class="control-label col-md-6">Propriedade do Ponto de Água</label>
+																													</div>
+																												</div>
+																														<div class="col-md-4">
+																															<div class="radio-list">
+																																<label class="radio-inline">
+																																<input type="radio" name="optionsRadios2" value="option1"/>
+																																Sim </label>
+																																<label class="radio-inline">
+																																<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																Não </label>
+																															</div>
+																														</div>
+																													</div>
+																													<div class="row">
+																														<div class="col-md-9">
+																															<div class="form-group">
+																																<label class="control-label col-md-2">Localização</label>
+																																<div class="col-md-10">
+																																		<input type="text" class="form-control" >
+																																</div>
+																															</div>
+																														</div>
+																															</div>
+																															<br/>
+																															<div class="row">
+																																<div class="col-md-9">
+																																	<div class="form-group">
+																																		<label class="control-label col-md-2">Distância de Protecção (m)</label>
+																																		<div class="col-md-10">
+																																				<input type="text" class="form-control" >
+																																		</div>
+																																	</div>
+																																</div>
+																																	</div>
+																																	<div class="row">
+																																		<div class="col-md-9">
+																																			<div class="form-group">
+																																				<label class="control-label col-md-2">Observação</label>
+																																				<div class="col-md-10">
+																																						<input type="text" class="form-control" >
+																																				</div>
+																																			</div>
+																																		</div>
+																																			</div>
+																																				<h4 class="form-section"> </h4><br/>
+																																				<div class="row">
+																																					<div class="col-md-8">
+																																						<div class="form-group">
+																																							<label class="control-label col-md-6">Existência de Linhas de Água</label>
+																																						</div>
+																																					</div>
+																																							<div class="col-md-4">
+																																								<div class="radio-list">
+																																									<label class="radio-inline">
+																																									<input type="radio" name="optionsRadios2" value="option1"/>
+																																									Sim </label>
+																																									<label class="radio-inline">
+																																									<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																									Não </label>
+																																								</div>
+																																							</div>
+																																						</div><br/>
+																																						<div class="row">
+																																							<div class="col-md-8">
+																																								<div class="form-group">
+																																									<label class="control-label col-md-6">Tipo de Escorrência</label>
+																																								</div>
+																																							</div>
+																																									<div class="col-md-4">
+																																										<div class="radio-list">
+																																											<label class="radio-inline">
+																																											<input type="radio" name="optionsRadios2" value="option1"/>
+																																											Exorreica </label>
+																																											<label class="radio-inline">
+																																											<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																											Endorreica </label>
+																																										</div>
+																																									</div>
+																																								</div><br/>
+																																								<div class="row">
+																																									<div class="col-md-4">
+																																										<div class="form-group">
+																																											<label class="control-label col-md-6">Eutrofização das Águas</label>
+																																										</div>
+																																									</div>
+																																											<div class="col-md-2">
+																																												<div class="radio-list">
+																																													<label class="radio-inline">
+																																													<input type="radio" name="optionsRadios2" value="option1"/>
+																																													Sim </label>
+																																													<label class="radio-inline">
+																																													<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																													Não </label>
+																																												</div>
+																																											</div>
+																																											<div class="col-md-3">
+																																												<div class="form-group">
+																																													<label class="control-label col-md-2">Causa</label>
+																																													<div class="col-md-10">
+																																															<input type="text" class="form-control" >
+																																													</div>
+																																												</div>
+																																											</div>
+																																											<div class="col-md-3">
+																																												<div class="form-group">
+																																													<label class="control-label col-md-2">Onde</label>
+																																													<div class="col-md-10">
+																																															<input type="text" class="form-control" >
+																																													</div>
+																																												</div>
+																																											</div>
+																																												</div>
+																																												<div class="row">
+																																													<div class="col-md-9">
+																																														<div class="form-group">
+																																															<label class="control-label col-md-2">Identificação da Bacia Hidrográfica</label>
+																																															<div class="col-md-10">
+																																																	<input type="text" class="form-control" >
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+																																													<table class="table">
+																																														<thead>
+																																																<tr>
+																																																	<th class="col-sm-12 col-md-4">Nº</th>
+																																																	<th class="col-sm-12 col-md-2">Linha de Água <br/> (Tipo) <br/> (LAP - LAT - LAE)</th>
+																																																	<th class="col-sm-12 col-md-2">Localização</th>
+																																																	<th class="col-sm-12 col-md-2">Sentido da Escorrência</th>
+																																																	<th class="col-sm-12 col-md-2">Distância de Protecção (m)</th>
 
-															<div class="col-md-6">
-																<div class="form-group">
-																	<label class="control-label col-md-3">Qual?</label>
-																	<div class="col-md-9">
-																		<input type="text" class="form-control">
-																	</div>
-																</div>
-															</div>
-														</div>
-														<div class="row">
-															<div class="col-md-6">
-																<div class="form-group">
-																	<label class="control-label col-md-3">Necessidade de vistoria adicional</label>
-																	<div class="col-md-9">
-																		<div class="radio-list">
-																			<label class="radio-inline">
-																			<input type="radio" name="optionsRadios2" value="option1"/>
-																			Sim </label>
-																			<label class="radio-inline">
-																			<input type="radio" name="optionsRadios2" value="option2" checked/>
-																			Não </label>
-																		</div>
-																	</div>
-																</div>
-															</div>
+																																																</tr>
+																																														</thead>
+																																													<tbody>
+																																														<tr>
+																																																	<td>
+																																																			<input type="text" class="form-control" />
+																																																	</td>
+																																																	<td>
+																																																			<input type="text" class="form-control" />
+																																																	</td>
+																																																	<td>
+																																																			<input type="text" class="form-control" />
+																																																	</td>
+																																																	<td>
+																																																			<input type="text" class="form-control" />
+																																																	</td>
+																																																	<td>
+																																																			<input type="text" class="form-control" />
+																																																	</td>
 
-															<div class="col-md-6">
-																<div class="form-group">
-																	<label class="control-label col-md-3">Obs.Adicional</label>
-																	<div class="col-md-9">
-																		<input type="text" class="form-control">
-																	</div>
-																</div>
-															</div>
-														</div>
+																																															</tr>
+																																															<tr>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+
+																																																</tr>
+																																																<tr>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+
+																																																	</tr>
+																																																	<tr>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+
+																																																		</tr>
+																																																		<tr>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+
+																																																			</tr>
+																																													</tbody>
+																																											</table>
+																																											<table class="table">
+																																												<thead>
+																																														<tr>
+																																															<th class="col-sm-12 col-md-1">Nº</th>
+																																															<th class="col-sm-12 col-md-2">Linha de Água <br/> (Tipo) <br/> (LAP - LAT - LAE)</th>
+																																															<th class="col-sm-12 col-md-1">Travessia da LA <br/> S - N</th>
+																																															<th class="col-sm-12 col-md-2">Tipo de Travessia <br/> Vau - Manilhas <br/> Pontão - Ponte <br/> Outra</th>
+																																															<th class="col-sm-12 col-md-1">Competência da LA <br/> Forte - Média - Fraca</th>
+																																															<th class="col-sm-12 col-md-2">Risco de Erosão <br/> das Margens <br/> S - N</th>
+																																															<th class="col-sm-12 col-md-1">Risco de Assoreamento <br/> S - N</th>
+																																															<th class="col-sm-12 col-md-2">Sítio onde ocorre </th>
+
+																																														</tr>
+																																												</thead>
+																																											<tbody>
+																																												<tr>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+
+																																													</tr>
+																																													<tr>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+
+																																														</tr>
+																																															<tr>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+																																																			<td>
+																																																					<input type="text" class="form-control" />
+																																																			</td>
+
+																																																	</tr>
+																																																	<tr>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+																																																				<td>
+																																																						<input type="text" class="form-control" />
+																																																				</td>
+
+																																																		</tr>
+																																																		<tr>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+																																																					<td>
+																																																							<input type="text" class="form-control" />
+																																																					</td>
+
+																																																			</tr>
+																																											</tbody>
+																																									</table>
+																																									<table class="table">
+																																										<thead>
+																																												<tr>
+																																													<th class="col-sm-12 col-md-4"></th>
+																																													<th class="col-sm-12 col-md-1">Sim</th>
+																																													<th class="col-sm-12 col-md-1">Não</th>
+																																													<th class="col-sm-12 col-md-3">Identificação</th>
+																																													<th class="col-sm-12 col-md-3">Localização na Mata ou na Extrema</th>
+
+																																												</tr>
+																																										</thead>
+																																									<tbody>
+																																										<tr>
+																																													<td>
+																																															Laguna ou Lago
+																																													</td>
+																																													<td>
+																																															<input type="text" class="form-control" />
+																																													</td>
+																																													<td>
+																																															<input type="text" class="form-control" />
+																																													</td>
+																																													<td>
+																																															<input type="text" class="form-control" />
+																																													</td>
+																																													<td>
+																																															<input type="text" class="form-control" />
+																																													</td>
+
+																																											</tr>
+																																											<tr>
+																																														<td>
+																																																Charca
+																																														</td>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+
+																																												</tr>
+																																												<tr>
+																																															<td>
+																																																	Albufeira
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+																																																	<input type="text" class="form-control" />
+																																															</td>
+
+																																													</tr>
+																																													<tr>
+																																																<td>
+																																																		Paúl
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+
+																																														</tr>
+
+																																									</tbody>
+																																							</table>
+																																							<div class="row">
+																																							<div class="col-md-8">
+																																								<div class="form-group">
+																																									<label class="control-label col-md-6">Poluição</label>
+																																								</div>
+																																							</div>
+																																									<div class="col-md-4">
+																																										<div class="radio-list">
+																																											<label class="radio-inline">
+																																											<input type="radio" name="optionsRadios2" value="option1"/>
+																																											Sim </label>
+																																											<label class="radio-inline">
+																																											<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																											Não </label>
+																																										</div>
+																																									</div>
+																																								</div><br/>
+																																								<div class="row">
+																																									<div class="col-md-9">
+																																										<div class="form-group">
+																																											<label class="control-label col-md-2">Localização da Poluição na Mata</label>
+																																											<div class="col-md-10">
+																																													<input type="text" class="form-control" >
+																																											</div>
+																																										</div>
+																																									</div>
+																																								</div>
+																																								<div class="row">
+																																									<div class="col-md-9">
+																																										<div class="form-group">
+																																											<label class="control-label col-md-2">Tipo de Poluição</label>
+																																											<div class="col-md-10">
+																																													<input type="text" class="form-control" >
+																																											</div>
+																																										</div>
+																																									</div>
+																																								</div><br/>
+																																								<div class="row">
+																																									<div class="col-md-9">
+																																										<div class="form-group">
+																																											<label class="control-label col-md-2">Fonte da Poluição</label>
+																																											<div class="col-md-10">
+																																													<input type="text" class="form-control" >
+																																											</div>
+																																										</div>
+																																									</div>
+																																								</div>
+																																								<div class="row">
+																																									<div class="col-md-4">
+																																										<div class="form-group">
+																																											<label class="control-label col-md-6">Risco de Alastramento da Área Poluída</label>
+																																										</div>
+																																									</div>
+																																											<div class="col-md-2">
+																																												<div class="radio-list">
+																																													<label class="radio-inline">
+																																													<input type="radio" name="optionsRadios2" value="option1"/>
+																																													Sim </label>
+																																													<label class="radio-inline">
+																																													<input type="radio" name="optionsRadios2" value="option2" checked/>
+																																													Não </label>
+																																												</div>
+																																											</div>
+																																											<div class="col-md-6">
+																																												<div class="form-group">
+																																													<label class="control-label col-md-2">Local em Risco</label>
+																																													<div class="col-md-10">
+																																															<input type="text" class="form-control" >
+																																													</div>
+																																												</div>
+																																											</div>
+																																												</div>
+																																												<div class="row">
+																																													<div class="col-md-9">
+																																														<div class="form-group">
+																																															<label class="control-label col-md-2">Medidas a Implementar</label>
+																																															<div class="col-md-10">
+																																																	<input type="text" class="form-control" >
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+
+																																												</div>
+																																										</div>
 
 
-
-
-
-												<h3 class="form-section">Exploração Florestal</h3>
-												<!--/row-->
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Espécie a explorar</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Volume estimado</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Espécie a explorar</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Volume estimado</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Espécies na Área a conservar</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Tipo de Corte</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Planeamento de Corte</label>
-															<div class="col-md-10">
-																 <textarea class="form-control autosizeme" rows="4"></textarea>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Planeamento de Circulação de Viaturas</label>
-															<div class="col-md-10">
-																 <textarea class="form-control autosizeme" rows="4"></textarea>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Necessidade de Abertura de Caminhos ou Trilhos</label>
-															<div class="col-md-10">
-																 <textarea class="form-control autosizeme" rows="4"></textarea>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Necessidade de Viradoura</label>
-															<div class="col-md-9">
-																<div class="radio-list">
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	Sim </label>
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	Não </label>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Local onde se insere</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Tipo de Rechega</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Utilização de Guincho</label>
-															<div class="col-md-9">
-																<div class="radio-list">
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	Sim </label>
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	Não </label>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Empilhamento - Locais</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Risco do Empilhamento</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Carregadouro - Local</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Risco do Carregadouro</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Travessia de Linhas de Água</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Trânsito em Áreas Ripícolas</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Trânsito em Áreas de Conservação</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Actividade em / para Ripícolas e de Conservação</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Actividade em / para Linhas de Água</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Cálculo da Madeira a Corte</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Carga do Transporte</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Quantidade de Guias a Emitir</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Destino de Madeiras a Corte</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Observações / Medidas Mitigadoras</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-													<h3 class="form-section">Preparação de Terrenos - Sementeira / Plantação</h3>
-												<!--/row-->
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Tipo de Preparação do Terreno</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Máquinas Utilizadas</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Espécies a Implementar</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Origem das Plantas</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Tipo de Fertilizante a Utilizar</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Intervalos de Plantação</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Actividade e Intervenção junto à linha de Água</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-9">
-														<div class="form-group">
-															<label class="control-label col-md-2">Actividade em Áreas de Conservação e Protecção</label>
-															<div class="col-md-10">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="row">
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Necessidade de Abertura de Caminhos ou Aceiros</label>
-															<div class="col-md-9">
-																<div class="radio-list">
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option1"/>
-																	Sim </label>
-																	<label class="radio-inline">
-																	<input type="radio" name="optionsRadios2" value="option2" checked/>
-																	Não </label>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="col-md-6">
-														<div class="form-group">
-															<label class="control-label col-md-3">Observações / Medidas Mitigadoras</label>
-															<div class="col-md-9">
-																<input type="text" class="form-control">
-															</div>
-														</div>
-													</div>
-												</div>
-
-													<!--/row-->
-													<h3 class="form-section">Implantação de Infra-Estruturas</h3>
-													<!--/row-->
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Tipo de Infra-estruturas</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Máquinas utilizadas na Construção</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Planeamento da Obra</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Motivo da implementação</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Pertinência do local escolhido</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte Social</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte na vizinhança</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte na Gestão e Exploração Florestal</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte nos povoamentos Florestais</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte na Água(Linhas de Água, Nascentes, etc)</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte no Solo</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Impacte na Conservação e na Biodiversidade</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Observações/ Medidas Mitigadoras</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<h3 class="form-section">Utilização de Produtos Químicos ou Fitossanitários</h3>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Razão para o Uso de Químicos</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Tipo de Químico a Utilizar</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Quantidade a aplicar</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Equipamento de Aplicação</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Área de Intervenção</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Local de Abastecimento</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Armazenamento de Resíduos</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Aplicação junto a Linhas de Água e Áreas de Conservação</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-6">
-															<div class="form-group">
-																<label class="control-label col-md-3">Risco de Contaminação</label>
-																<div class="col-md-9">
-																	<div class="radio-list">
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option1"/>
-																		Sim </label>
-																		<label class="radio-inline">
-																		<input type="radio" name="optionsRadios2" value="option2" checked/>
-																		Não </label>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Observações/ Medidas Mitigadoras</label>
-																<div class="col-md-10">
-																	<input type="text" class="form-control">
-																</div>
-															</div>
-														</div>
-													</div>
-																<h3 class="form-section">Impactes Ambientais / Sociais - Aspectos a Observar e a Planear</h3>
-
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Nas Águas - Linhas de Águas - Nascentes - Etc.</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Nos Solos</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Na conservação e na Biodiversidade</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Nas Infra-estruturas</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Nos Povoamentos Florestais</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Na paisagem</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="row">
-														<div class="col-md-9">
-															<div class="form-group">
-																<label class="control-label col-md-2">Na Envolvente Social</label>
-																<div class="col-md-10">
-																	 <textarea class="form-control autosizeme" rows="4"></textarea>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<br/>
-												<div class="form-actions">
-													<div class="row">
-														<div class="col-md-offset-7 col-md-8">
-															<button type="submit" class="btn green">Submeter</button>
-															<button type="button" class="btn default">Cancelar</button>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
 
 												<!--/row-->
 
