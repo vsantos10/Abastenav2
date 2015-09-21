@@ -2813,6 +2813,74 @@ License: You must have a valid license purchased only from themeforest(the above
 																		<table class="table">
 																			<thead>
 																					<tr>
+																						<th class="col-sm-12 col-md-4">Infra-estrutura</th>
+																						<th class="col-sm-12 col-md-4">Tipo (Púb. ou Priv.)</th>
+																						<th class="col-sm-12 col-md-4">Localização na mata</th>
+
+																					</tr>
+																			</thead>
+																		<tbody>
+																			<tr>
+																				<td>
+																						<input type="text" class="form-control" />
+																				</td>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+																					</tr>
+																					<tr>
+																						<td>
+																								<input type="text" class="form-control" />
+																						</td>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+																							</tr>
+																							<tr>
+																								<td>
+																										<input type="text" class="form-control" />
+																								</td>
+																										<td>
+																												<input type="text" class="form-control" />
+																										</td>
+																										<td>
+																												<input type="text" class="form-control" />
+																										</td>
+																									</tr>
+																									<tr>
+																										<td>
+																												<input type="text" class="form-control" />
+																										</td>
+																												<td>
+																														<input type="text" class="form-control" />
+																												</td>
+																												<td>
+																														<input type="text" class="form-control" />
+																												</td>
+																											</tr>
+																											<tr>
+																												<td>
+																														<input type="text" class="form-control" />
+																												</td>
+																														<td>
+																																<input type="text" class="form-control" />
+																														</td>
+																														<td>
+																																<input type="text" class="form-control" />
+																														</td>
+																													</tr>
+
+																		</tbody>
+																</table>
+																		<table class="table">
+																			<thead>
+																					<tr>
 																						<th class="col-sm-12 col-md-6">Actividades Não Autorizadas</th>
 																						<th class="col-sm-12 col-md-6">Localização</th>
 																										</tr>
@@ -3072,14 +3140,16 @@ License: You must have a valid license purchased only from themeforest(the above
 																																							<th class="col-sm-12 col-md-4"></th>
 																																							<th class="col-sm-12 col-md-1">Sim</th>
 																																							<th class="col-sm-12 col-md-1">Não</th>
-																																							<th class="col-sm-12 col-md-3"></th>
-																																							<th class="col-sm-12 col-md-3"></th>
+																																								<th class="col-sm-12 col-md-1"></th>
+																																							<th class="col-sm-12 col-md-2"></th>
+																																								<th class="col-sm-12 col-md-1"></th>
+																																							<th class="col-sm-12 col-md-2"></th>
 																																						</tr>
 																																				</thead>
 																																			<tbody>
 																																				<tr>
 																																							<td>
-																																									Locais de Interesse
+																																								Área Inserida em Área Protegida
 																																							</td>
 																																							<td>
 																																								<input type="radio" name="optionsRadios2" value="option1"/>
@@ -3088,8 +3158,14 @@ License: You must have a valid license purchased only from themeforest(the above
 																																									<input type="radio" name="optionsRadios2" value="option1"/>
 																																							</td>
 																																							<td>
-																																								<label class="control-label col-md-12">Tempo de deslocação de um GPI dos Bombeiros à Mata ( minutos )
-																																									<input type="text" class="form-control" /></label>
+																																									Qual?
+																																							</td>
+																																							<td>
+
+																																									<input type="text" class="form-control" />
+																																							</td>
+																																							<td>
+																																									Código
 																																							</td>
 																																							<td>
 																																									<input type="text" class="form-control" />
@@ -3097,7 +3173,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																																						</tr>
 																																						<tr>
 																																									<td>
-																																											Áreas de Lazer
+																																											Árvores Protegidas ou Longevas
 																																									</td>
 																																									<td>
 																																										<input type="radio" name="optionsRadios2" value="option1"/>
@@ -3106,12 +3182,148 @@ License: You must have a valid license purchased only from themeforest(the above
 																																											<input type="radio" name="optionsRadios2" value="option1"/>
 																																									</td>
 																																									<td>
+																																											Quais?
+																																									</td>
+																																									<td>
+
 																																											<input type="text" class="form-control" />
+																																									</td>
+																																									<td>
+																																											Local
 																																									</td>
 																																									<td>
 																																											<input type="text" class="form-control" />
 																																									</td>
 																																								</tr>
+																																								<tr>
+																																											<td>
+																																													Espécies Ameaçadas
+																																											</td>
+																																											<td>
+																																												<input type="radio" name="optionsRadios2" value="option1"/>
+																																											</td>
+																																											<td>
+																																													<input type="radio" name="optionsRadios2" value="option1"/>
+																																											</td>
+																																											<td>
+																																													Quais?
+																																											</td>
+																																											<td>
+
+																																													<input type="text" class="form-control" />
+																																											</td>
+																																											<td>
+																																													Local
+																																											</td>
+																																											<td>
+																																													<input type="text" class="form-control" />
+																																											</td>
+																																										</tr>
+																																										<tr>
+																																													<td>
+																																															Altos Valores de Conservação
+																																													</td>
+																																													<td>
+																																														<input type="radio" name="optionsRadios2" value="option1"/>
+																																													</td>
+																																													<td>
+																																															<input type="radio" name="optionsRadios2" value="option1"/>
+																																													</td>
+																																													<td>
+																																															Quais?
+																																													</td>
+																																													<td>
+
+																																															<input type="text" class="form-control" />
+																																													</td>
+																																													<td>
+																																															Local
+																																													</td>
+																																													<td>
+																																															<input type="text" class="form-control" />
+																																													</td>
+																																												</tr>
+																																												<tr>
+																																															<td>
+																																																	Área com Altos Valores de Conservação
+																																															</td>
+																																															<td>
+																																																<input type="radio" name="optionsRadios2" value="option1"/>
+																																															</td>
+																																															<td>
+																																																	<input type="radio" name="optionsRadios2" value="option1"/>
+																																															</td>
+																																															<td>
+																																																	Razão
+																																															</td>
+																																															<td>
+
+																																																	<input type="text" class="form-control" />
+																																															</td>
+																																															<td>
+
+
+																																															</td>
+																																															<td>
+
+
+																																															</td>
+
+																																														</tr>
+																																														<table class="table">
+																																															<thead>
+																																																	<tr>
+																																																		<th class="col-sm-12 col-md-6">Espécies Florestais Autóctones Disperasas pela Mata</th>
+																																																		<th class="col-sm-12 col-md-6">Outras Espécies Florestais Dispersas pela Mata para Conservar</th>
+																																																	</tr>
+																																															</thead>
+																																														<tbody>
+																																															<tr>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																																		<td>
+																																																				<input type="text" class="form-control" />
+																																																		</td>
+																																													</tr>
+																																													<tr>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+																																																<td>
+																																																		<input type="text" class="form-control" />
+																																																</td>
+																																											</tr>
+																																											<tr>
+																																												<td>
+																																														<input type="text" class="form-control" />
+																																												</td>
+																																														<td>
+																																																<input type="text" class="form-control" />
+																																														</td>
+																																									</tr>
+																																									<tr>
+																																										<td>
+																																												<input type="text" class="form-control" />
+																																										</td>
+																																												<td>
+																																														<input type="text" class="form-control" />
+																																												</td>
+																																							</tr>
+																																							<tr>
+																																								<td>
+																																										<input type="text" class="form-control" />
+																																								</td>
+																																										<td>
+																																												<input type="text" class="form-control" />
+																																										</td>
+																																					</tr>
+																																					
+
+
+
+																																														</tbody>
+																																												</table>
 
 																																			</tbody>
 																																	</table>
