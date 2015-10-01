@@ -3318,7 +3318,7 @@ License: You must have a valid license purchased only from themeforest(the above
 																																												<input type="text" class="form-control" />
 																																										</td>
 																																					</tr>
-																																					
+
 
 
 
@@ -3332,6 +3332,154 @@ License: You must have a valid license purchased only from themeforest(the above
 
 																																												</div>
 																																										</div>
+																																										<table class="table">
+																																											<thead>
+																																													<tr>
+																																														<th class="col-sm-12 col-md-6">Aspectos Observados sobre a Fauna da Mata</th>
+																																														<th class="col-sm-12 col-md-6">Fauna</th>
+																																																		</tr>
+																																											</thead>
+																																										<tbody>
+																																											<tr>
+																																														<td>
+																																															Área de Alimentação
+																																														</td>
+																																														<td>
+																																															<input type="text" class="form-control" />
+																																														</td>
+
+																																												</tr>
+																																												<tr>
+																																															<td>
+																																																Área de Refúgio
+																																															</td>
+																																															<td>
+																																																<input type="text" class="form-control" />
+																																															</td>
+
+																																													</tr>
+																																													<tr>
+																																																<td>
+																																																	Área Integrada ou junto a um Corredor de Fauna
+																																																</td>
+																																																<td>
+																																																	<input type="text" class="form-control" />
+																																																</td>
+
+																																														</tr>
+																																														<tr>
+																																																	<td>
+																																																		Avistamentos na Área da Mata
+																																																	</td>
+																																																	<td>
+																																																		<input type="text" class="form-control" />
+																																																	</td>
+
+																																															</tr>
+																																															<tr>
+																																																		<td>
+																																																			Presenças de Dejectos
+																																																		</td>
+																																																		<td>
+																																																			<input type="text" class="form-control" />
+																																																		</td>
+
+																																																</tr>
+																																																<tr>
+																																																			<td>
+																																																				Existência de Trilhos
+																																																			</td>
+																																																			<td>
+																																																				<input type="text" class="form-control" />
+																																																			</td>
+
+																																																	</tr>
+																																																	<tr>
+																																																				<td>
+																																																					Presenças de Vestígios
+																																																				</td>
+																																																				<td>
+																																																					<input type="text" class="form-control" />
+																																																				</td>
+
+																																																		</tr>
+																																																		<tr>
+																																																					<td>
+																																																						Existência Comunicada pelo Proprietário
+																																																					</td>
+																																																					<td>
+																																																						<input type="text" class="form-control" />
+																																																					</td>
+
+																																																			</tr>
+																																																			<tr>
+																																																						<td>
+																																																							Presença de Árvore Cavernosas
+																																																						</td>
+																																																						<td>
+																																																							<input type="text" class="form-control" />
+																																																						</td>
+
+																																																				</tr>
+																																																				<tr>
+																																																							<td>
+																																																								Existência de Ninhos
+																																																							</td>
+																																																							<td>
+																																																								<input type="text" class="form-control" />
+																																																							</td>
+
+																																																					</tr>
+																																																					<tr>
+																																																								<td>
+																																																									Existência de Tocas
+																																																								</td>
+																																																								<td>
+																																																									<input type="text" class="form-control" />
+																																																								</td>
+
+																																																						</tr>
+																																																						<tr>
+																																																									<td>
+																																																										Proximidade de Áreas de Alimentação
+																																																									</td>
+																																																									<td>
+																																																										<input type="text" class="form-control" />
+																																																									</td>
+
+																																																							</tr>
+																																																							<tr>
+																																																										<td>
+																																																											Proximidade de Linhas de Água
+																																																										</td>
+																																																										<td>
+																																																											<input type="text" class="form-control" />
+																																																										</td>
+
+																																																								</tr>
+																																																								<tr>
+																																																											<td>
+																																																											 Outra:
+																																																											</td>
+																																																											<td>
+																																																												<input type="text" class="form-control" />
+																																																											</td>
+
+																																																									</tr>
+
+
+																																																															</tbody>
+																																																														</table>
+																																																														<div class="row">
+																																																															<div class="col-md-12">
+																																																																<div class="form-group">
+																																																																	<label class="control-label col-md-2">Registo de Riscos e Impactos sobre a Fauna Selvagem na Mata:</label>
+																																																																	<div class="col-md-10">
+																																																																		 <textarea class="form-control autosizeme" rows="4"></textarea>
+																																																																	</div>
+																																																																</div>
+																																																															</div>
+																																																														</div>
 
 
 
