@@ -22,6 +22,19 @@
                                       VistoriaPlaneamento.php
                                       vistoriaoperacional.php
                                       inqueritomembrobfa.php
+                                      listainformacaobfa.php
+                                      caracterizacaomata.php
+                                      listainformacao.php
+                                      comunicacaodeoperacao.php
+                                      comunicacaoaplicacao.php
+                                      acordocontratacao.php
+                                      declaracaocompromisso.php
+                                      declaracaofornecimento.php
+                                      delegacaoresposabilidade.php
+                                      fichatratamento.php
+                                      declaracaocompromissobfa.php
+                                      inqueritomata.php
+                                      compromissodenegocio.php
                             
                             Lists
                             
@@ -38,6 +51,10 @@
                             assets\admin\layout3\css\layout.css
                             assets\admin\layout3\css\themes\default.css
                             assets\admin\pages\css\login.css
+                            
+                            
+
+                      
                             
                             
                             
