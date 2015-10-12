@@ -8,6 +8,9 @@
 /****
 Boby
 ****/
+.homelink{
+  color:#4DB3A2 !important;
+}
 body {
   background-image: url('../../img/abastena-bg.jpg');
   background-repeat: no-repeat;

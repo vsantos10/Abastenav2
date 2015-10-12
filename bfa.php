@@ -88,7 +88,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		<div class="container">
 			<!-- BEGIN PAGE TITLE -->
 			<div class="page-title">
-				<h1>Abastena <i class="fa fa-angle-right"></i> <small><a href="#">Home</a></small></h1>
+				<h1>Abastena <i class="fa fa-angle-right"></i> <small><a href="#" class="homelink">home</a></small></h1>
 			</div>
 			<!-- END PAGE TITLE -->
 			<!-- BEGIN PAGE TOOLBAR -->
