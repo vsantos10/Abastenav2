@@ -121,7 +121,7 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!-- END SAMPLE PORTLET CONFIGURATION MODAL FORM-->
 			<!-- BEGIN PAGE CONTENT INNER -->
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-xs-12">
 					<div class="tabbable tabbable-custom tabbable-noborder tabbable-reversed">
 						<ul class="nav nav-tabs">
 							<li  class="active">
@@ -148,10 +148,10 @@ License: You must have a valid license purchased only from themeforest(the above
 											<div class="form-body">
 
 												<div class="row">
-													<div class="col-md-6">
+													<div class="col-xs-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Data</label>
-															<div class="col-md-9">
+															<label class="control-label col-xs-3">Data</label>
+															<div class="col-xs-9">
 																<input type="text" class="form-control" >
 															</div>
 														</div>
@@ -160,38 +160,38 @@ License: You must have a valid license purchased only from themeforest(the above
 													<!--/span-->
 												</div>
 												<div class="row">
-												<div class="col-md-9">
+												<div class="col-xs-9">
 													<div class="form-group">
-														<label class="control-label col-md-2">Ex.mo(s) Sr.(s)</label>
-														<div class="col-md-10">
+														<label class="control-label col-xs-2">Ex.mo(s) Sr.(s)</label>
+														<div class="col-xs-10">
 														<input type="text" class="form-control" >
 														</div>
 													</div>
 												</div>
 											</div>
 											<div class="row">
-											<div class="col-md-9">
+											<div class="col-xs-9">
 												<div class="form-group">
-													<label class="control-label col-md-2">Morada</label>
-													<div class="col-md-10">
+													<label class="control-label col-xs-2">Morada</label>
+													<div class="col-xs-10">
 													<input type="text" class="form-control" >
 													</div>
 												</div>
 											</div>
 										</div>
 										<div class="row">
-											<div class="col-md-6">
+											<div class="col-xs-6">
 												<div class="form-group">
-													<label class="control-label col-md-3">NIPC</label>
-													<div class="col-md-9">
+													<label class="control-label col-xs-3">NIPC</label>
+													<div class="col-xs-9">
 														<input type="text" class="form-control" >
 													</div>
 												</div>
 											</div>
-											<div class="col-md-6">
+											<div class="col-xs-6">
 												<div class="form-group">
-													<label class="control-label col-md-3">Contrato Nº</label>
-													<div class="col-md-9">
+													<label class="control-label col-xs-3">Contrato Nº</label>
+													<div class="col-xs-9">
 														<input type="text" class="form-control" >
 													</div>
 												</div>
@@ -204,29 +204,29 @@ License: You must have a valid license purchased only from themeforest(the above
 										</div>
 												<!--/row-->
 												<div class="row">
-													<div class="col-md-6">
+													<div class="col-xs-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Código da Mata</label>
-															<div class="col-md-9">
+															<label class="control-label col-xs-3">Código da Mata</label>
+															<div class="col-xs-9">
 																<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
-													<div class="col-md-6">
+													<div class="col-xs-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Povoamento Nº</label>
-															<div class="col-md-9">
+															<label class="control-label col-xs-3">Povoamento Nº</label>
+															<div class="col-xs-9">
 																<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
 												</div>
 												<div class="row">
-																								<div class="col-md-9">
+																								<div class="col-xs-9">
 																									<div class="form-group">
-																										<label class="control-label col-md-3">Espécie</label>
+																										<label class="control-label col-xs-3">Espécie</label>
 
-																										<div class="col-md-9">
+																										<div class="col-xs-9">
 																											<div class="radio-list">
 																												<label class="radio-inline">
 																												<input type="radio" name="optionsRadios2" value="option1"/>
@@ -245,48 +245,48 @@ License: You must have a valid license purchased only from themeforest(the above
 																								</div>
 																							</div>
 																							<div class="row">
-																								<div class="col-md-6">
+																								<div class="col-xs-6">
 																									<div class="form-group">
-																										<label class="control-label col-md-3">Quantidade</label>
-																										<div class="col-md-8">
+																										<label class="control-label col-xs-3">Quantidade</label>
+																										<div class="col-xs-8">
 																											<input type="text" class="form-control" >M3 / TN
 																										</div>
 																									</div>
 																								</div>
-																								<div class="col-md-6">
+																								<div class="col-xs-6">
 																									<div class="form-group">
-																										<label class="control-label col-md-3">Preço Unitário</label>
-																										<div class="col-md-8">
+																										<label class="control-label col-xs-3">Preço Unitário</label>
+																										<div class="col-xs-8">
 																											<input type="text" class="form-control" > €
 																										</div>
 																									</div>
 																								</div>
 																							</div>
 																							<div class="row">
-																							<div class="col-md-9">
+																							<div class="col-xs-9">
 																								<div class="form-group">
-																									<label class="control-label col-md-2">Localidade</label>
-																									<div class="col-md-10">
+																									<label class="control-label col-xs-2">Localidade</label>
+																									<div class="col-xs-10">
 																									<input type="text" class="form-control" >
 																									</div>
 																								</div>
 																							</div>
 																						</div>
 																						<div class="row">
-																						<div class="col-md-9">
+																						<div class="col-xs-9">
 																							<div class="form-group">
-																								<label class="control-label col-md-2">Freguesia</label>
-																								<div class="col-md-10">
+																								<label class="control-label col-xs-2">Freguesia</label>
+																								<div class="col-xs-10">
 																								<input type="text" class="form-control" >
 																								</div>
 																							</div>
 																						</div>
 																					</div>
 																					<div class="row">
-																					<div class="col-md-9">
+																					<div class="col-xs-9">
 																						<div class="form-group">
-																							<label class="control-label col-md-2">Concelho</label>
-																							<div class="col-md-10">
+																							<label class="control-label col-xs-2">Concelho</label>
+																							<div class="col-xs-10">
 																							<input type="text" class="form-control" >
 																							</div>
 																						</div>
@@ -295,40 +295,40 @@ License: You must have a valid license purchased only from themeforest(the above
 																					<h4 class="form-section">Outras Referências</h3>
 
 													<div class="row">
-													<div class="col-md-9">
+													<div class="col-xs-9">
 														<div class="form-group">
-															<label class="control-label col-md-2">Subcodigo de Membro GGFA</label>
-															<div class="col-md-10">
+															<label class="control-label col-xs-2">Subcodigo de Membro GGFA</label>
+															<div class="col-xs-10">
 															<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
 												</div>
 												<div class="row">
-												<div class="col-md-9">
+												<div class="col-xs-9">
 													<div class="form-group">
-														<label class="control-label col-md-2">Subcodigo de Membro BFA</label>
-														<div class="col-md-10">
+														<label class="control-label col-xs-2">Subcodigo de Membro BFA</label>
+														<div class="col-xs-10">
 														<input type="text" class="form-control" >
 														</div>
 													</div>
 												</div>
 											</div>
 											<div class="row">
-											<div class="col-md-9">
+											<div class="col-xs-9">
 												<div class="form-group">
-													<label class="control-label col-md-2">Operador</label>
-													<div class="col-md-10">
+													<label class="control-label col-xs-2">Operador</label>
+													<div class="col-xs-10">
 													<input type="text" class="form-control" >
 													</div>
 												</div>
 											</div>
 										</div>
 										<div class="row">
-										<div class="col-md-9">
+										<div class="col-xs-9">
 											<div class="form-group">
-												<label class="control-label col-md-2">Transportador:</label>
-												<div class="col-md-10">
+												<label class="control-label col-xs-2">Transportador:</label>
+												<div class="col-xs-10">
 												<input type="text" class="form-control" >
 												</div>
 											</div>
@@ -337,55 +337,55 @@ License: You must have a valid license purchased only from themeforest(the above
 												<h3 class="form-section">Transporte</h3>
 
 												<div class="row">
-													<div class="col-md-6">
+													<div class="col-xs-6">
 														<div class="form-group">
-															<label class="control-label col-md-3">Data da carga</label>
-															<div class="col-md-9">
+															<label class="control-label col-xs-3">Data da carga</label>
+															<div class="col-xs-9">
 																<input type="text" class="form-control" >
 															</div>
 														</div>
 													</div>
 												</div>
 													<div class="row">
-														<div class="col-md-6">
+														<div class="col-xs-6">
 															<div class="form-group">
-																<label class="control-label col-md-3">Hora da Carga</label>
-																<div class="col-md-9">
+																<label class="control-label col-xs-3">Hora da Carga</label>
+																<div class="col-xs-9">
 																	<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
-														<div class="col-md-6">
+														<div class="col-xs-6">
 															<div class="form-group">
-																<label class="control-label col-md-3">Hora da Descarga</label>
-																<div class="col-md-9">
+																<label class="control-label col-xs-3">Hora da Descarga</label>
+																<div class="col-xs-9">
 																	<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
 														<div class="row">
-														<div class="col-md-9">
+														<div class="col-xs-9">
 															<div class="form-group">
-																<label class="control-label col-md-2">Local da Descarga</label>
-																<div class="col-md-10">
+																<label class="control-label col-xs-2">Local da Descarga</label>
+																<div class="col-xs-10">
 																<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
 													</div>
 													<div class="row">
-														<div class="col-md-6">
+														<div class="col-xs-6">
 															<div class="form-group">
-																<label class="control-label col-md-3">Matrícula Viatura</label>
-																<div class="col-md-9">
+																<label class="control-label col-xs-3">Matrícula Viatura</label>
+																<div class="col-xs-9">
 																	<input type="text" class="form-control" >
 																</div>
 															</div>
 														</div>
-														<div class="col-md-6">
+														<div class="col-xs-6">
 															<div class="form-group">
-																<label class="control-label col-md-3">Reboque</label>
-																<div class="col-md-9">
+																<label class="control-label col-xs-3">Reboque</label>
+																<div class="col-xs-9">
 																	<input type="text" class="form-control" >
 																</div>
 															</div>
